@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e1466aa019b1ada7fa6d7924bd83f11d:fffd409eb54fb5284462731ef6e4e77a:640757dd0e764022614b6cd71e0abdc7$ -->
+<TextureAtlas imagePath="realmgrinderbg0.png" width="2048" height="2048">
+    <SubTexture name="Angel Assistant" x="637" y="1786" width="25" height="25"/>
+    <SubTexture name="BGAlignmentEvil" x="2" y="2" width="1020" height="767"/>
+    <SubTexture name="BGAlignmentGood" x="1024" y="2" width="1020" height="767"/>
+    <SubTexture name="BGAlignmentNeutral" x="2" y="771" width="1020" height="767"/>
+    <SubTexture name="BGBuildingAlchemistLab4" x="1612" y="1058" width="152" height="144" frameX="-21" frameY="-11" frameWidth="200" frameHeight="160"/>
+    <SubTexture name="BGBuildingAlchemistLab5" x="1611" y="1204" width="152" height="140" frameX="-21" frameY="-11" frameWidth="200" frameHeight="160"/>
+    <SubTexture name="BGBuildingAncientPyramid3" x="1430" y="1920" width="163" height="125" frameX="-6" frameY="-64" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="BGBuildingArboreal City" x="886" y="1803" width="220" height="207" frameX="-14" frameY="-8" frameWidth="320" frameHeight="244"/>
+    <SubTexture name="BGBuildingCathedral3" x="1206" y="1920" width="156" height="126" frameX="-27" frameY="-21" frameWidth="200" frameHeight="160"/>
+    <SubTexture name="BGBuildingCathedral5" x="1024" y="1377" width="200" height="160"/>
+    <SubTexture name="BGBuildingCitadel3" x="1766" y="1136" width="258" height="166" frameX="-13" frameY="-59" frameWidth="320" frameHeight="244"/>
+    <SubTexture name="BGBuildingCitadel4" x="1024" y="771" width="278" height="204" frameX="-9" frameY="-23" frameWidth="320" frameHeight="244"/>
+    <SubTexture name="BGBuildingCitadel5" x="2" y="1822" width="284" height="224" frameX="-3" frameY="-1" frameWidth="320" frameHeight="244"/>
+    <SubTexture name="BGBuildingDragonFarmField" x="1595" y="1919" width="142" height="125" frameX="-11" frameY="-26" frameWidth="160" frameHeight="160"/>
+    <SubTexture name="BGBuildingEnchanted Field" x="1612" y="958" width="154" height="98" frameX="-36" frameY="-47" frameWidth="200" frameHeight="160"/>
+    <SubTexture name="BGBuildingEnchantedFarmField" x="1613" y="1817" width="160" height="100"/>
+    <SubTexture name="BGBuildingEvilBurning Abyss" x="1437" y="1817" width="174" height="100" frameX="-12" frameY="-31" frameWidth="200" frameHeight="160"/>
+    <SubTexture name="BGBuildingEvilFarm5" x="1739" y="1919" width="176" height="124" frameX="-19" frameY="-19" frameWidth="200" frameHeight="160"/>
+    <SubTexture name="BGBuildingEvilFarmField4" x="1463" y="1297" width="146" height="82" frameX="-1" frameY="-69" frameWidth="160" frameHeight="160"/>
+    <SubTexture name="BGBuildingEvilFarmField5" x="1611" y="1346" width="151" height="92" frameX="0" frameY="-59" frameWidth="160" frameHeight="160"/>
+    <SubTexture name="BGBuildingEvilFortress2" x="1285" y="1175" width="176" height="192" frameX="-50" frameY="-36" frameWidth="290" frameHeight="270"/>
+    <SubTexture name="BGBuildingEvilFortress3" x="717" y="1813" width="167" height="223" frameX="-61" frameY="-5" frameWidth="290" frameHeight="270"/>
+    <SubTexture name="BGBuildingEvilFortress4" x="288" y="1822" width="228" height="223" frameX="-49" frameY="-5" frameWidth="290" frameHeight="270"/>
+    <SubTexture name="BGBuildingEvilFortress5" x="545" y="1540" width="241" height="244" frameX="-49" frameY="0" frameWidth="290" frameHeight="270"/>
+    <SubTexture name="BGBuildingFarmField5" x="1611" y="1440" width="151" height="92" frameX="0" frameY="-59" frameWidth="160" frameHeight="160"/>
+    <SubTexture name="BGBuildingFreemason's Hall" x="1291" y="1538" width="144" height="148" frameX="-28" frameY="-6" frameWidth="200" frameHeight="160"/>
+    <SubTexture name="BGBuildingGoblin Bank" x="1917" y="1779" width="129" height="142" frameX="-31" frameY="-3" frameWidth="160" frameHeight="160"/>
+    <SubTexture name="BGBuildingHeavensGate4" x="1775" y="1779" width="123" height="138" frameX="0" frameY="-16" frameWidth="160" frameHeight="160"/>
+    <SubTexture name="BGBuildingHigh Bastion" x="788" y="1540" width="303" height="234"/>
+    <SubTexture name="BGBuildingInfernal Realm" x="1917" y="1923" width="108" height="122" frameX="-16" frameY="-11" frameWidth="160" frameHeight="160"/>
+    <SubTexture name="BGBuildingKnightsJoust1" x="1093" y="1734" width="111" height="67" frameX="-55" frameY="-93" frameWidth="200" frameHeight="160"/>
+    <SubTexture name="BGBuildingKnightsJoust4" x="1611" y="1534" width="150" height="123" frameX="-16" frameY="-37" frameWidth="200" frameHeight="160"/>
+    <SubTexture name="BGBuildingLabyrinth3" x="1763" y="1627" width="249" height="150" frameX="-47" frameY="-95" frameWidth="320" frameHeight="256"/>
+    <SubTexture name="BGBuildingLabyrinth4" x="1769" y="955" width="259" height="179" frameX="-56" frameY="-66" frameWidth="320" frameHeight="256"/>
+    <SubTexture name="BGBuildingLabyrinth5" x="1769" y="771" width="269" height="182" frameX="-43" frameY="-56" frameWidth="320" frameHeight="256"/>
+    <SubTexture name="BGBuildingMonastery5" x="1434" y="968" width="176" height="191" frameX="-19" frameY="0" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="BGBuildingMountain Palace" x="1108" y="1803" width="96" height="128" frameX="-17" frameY="-1" frameWidth="160" frameHeight="160"/>
+    <SubTexture name="BGBuildingNecropolis2" x="1220" y="977" width="212" height="196" frameX="-68" frameY="-104" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="BGBuildingNecropolis3" x="1024" y="977" width="194" height="200" frameX="-68" frameY="-89" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="BGBuildingNecropolis4" x="518" y="1814" width="197" height="230" frameX="-65" frameY="-59" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="BGBuildingNecropolis5" x="316" y="1540" width="227" height="272" frameX="-35" frameY="-17" frameWidth="300" frameHeight="300"/>
+    <SubTexture name="BGBuildingOrcishArena4" x="1609" y="1659" width="148" height="156" frameX="-47" frameY="-1" frameWidth="200" frameHeight="160"/>
+    <SubTexture name="BGBuildingRoyalCastle2" x="1226" y="1377" width="209" height="159" frameX="-40" frameY="-26" frameWidth="300" frameHeight="203"/>
+    <SubTexture name="BGBuildingRoyalCastle4" x="1528" y="771" width="239" height="185" frameX="-10" frameY="0" frameWidth="300" frameHeight="203"/>
+    <SubTexture name="BGBuildingRoyalCastle5" x="1024" y="1179" width="259" height="196" frameX="-10" frameY="0" frameWidth="300" frameHeight="203"/>
+    <SubTexture name="BGBuildingSunken City" x="1437" y="1381" width="172" height="156" frameX="-90" frameY="-85" frameWidth="320" frameHeight="256"/>
+    <SubTexture name="BGBuildingTraining Grounds" x="1437" y="1687" width="170" height="128" frameX="-29" frameY="-25" frameWidth="200" frameHeight="160"/>
+    <SubTexture name="BGBuildingTyrant Garrison" x="2" y="1540" width="312" height="280"/>
+    <SubTexture name="BGBuildingUndercity" x="1765" y="1304" width="256" height="155" frameX="-44" frameY="-85" frameWidth="300" frameHeight="240"/>
+    <SubTexture name="BGBuildingWitchConclave2" x="1108" y="1933" width="94" height="94" frameX="-11" frameY="-41" frameWidth="160" frameHeight="160"/>
+    <SubTexture name="BGBuildingWitchConclave5" x="1463" y="1161" width="146" height="134" frameX="-1" frameY="-1" frameWidth="160" frameHeight="160"/>
+    <SubTexture name="BGBuildingWizardTower2" x="1364" y="1920" width="64" height="126" frameX="-83" frameY="-61" frameWidth="160" frameHeight="200"/>
+    <SubTexture name="BGBuildingWyrm's Den" x="1437" y="1539" width="170" height="146" frameX="-45" frameY="-25" frameWidth="280" frameHeight="214"/>
+    <SubTexture name="BGMonumentAngel" x="1093" y="1539" width="196" height="193" frameX="-7" frameY="0" frameWidth="240" frameHeight="210"/>
+    <SubTexture name="BGMonumentDruid" x="1764" y="1461" width="255" height="164" frameX="0" frameY="-11" frameWidth="264" frameHeight="200"/>
+    <SubTexture name="BGMonumentFaceless" x="1304" y="771" width="222" height="195" frameX="-9" frameY="0" frameWidth="240" frameHeight="200"/>
+    <SubTexture name="BGMonumentTitan" x="1206" y="1734" width="229" height="184" frameX="0" frameY="-3" frameWidth="252" frameHeight="200"/>
+    <SubTexture name="Demon Assistant" x="664" y="1786" width="25" height="25"/>
+    <SubTexture name="Dragon Assistant" x="691" y="1786" width="25" height="25"/>
+    <SubTexture name="Drow Assistant" x="997" y="1776" width="25" height="23" frameX="0" frameY="-1" frameWidth="25" frameHeight="25"/>
+    <SubTexture name="Druid Assistant" x="923" y="1776" width="23" height="25" frameX="-1" frameY="0" frameWidth="25" frameHeight="25"/>
+    <SubTexture name="Dwarf Assistant 1" x="545" y="1786" width="21" height="26" frameX="-2" frameY="0" frameWidth="25" frameHeight="35"/>
+    <SubTexture name="Dwarf Assistant 2" x="568" y="1786" width="21" height="26" frameX="-2" frameY="0" frameWidth="25" frameHeight="35"/>
+    <SubTexture name="Dwarf Assistant 3" x="591" y="1786" width="21" height="26" frameX="-2" frameY="0" frameWidth="25" frameHeight="35"/>
+    <SubTexture name="Dwarf Assistant 4" x="614" y="1786" width="21" height="26" frameX="-2" frameY="0" frameWidth="25" frameHeight="35"/>
+    <SubTexture name="Dwarf Assistant 5" x="847" y="1776" width="21" height="28" frameX="-2" frameY="0" frameWidth="25" frameHeight="35"/>
+    <SubTexture name="Dwarf Assistant 6" x="824" y="1776" width="21" height="32" frameX="-2" frameY="0" frameWidth="25" frameHeight="35"/>
+    <SubTexture name="Dwarf Assistant 7" x="799" y="1776" width="23" height="35" frameX="-1" frameY="0" frameWidth="25" frameHeight="35"/>
+    <SubTexture name="Elf Assistant" x="897" y="1776" width="24" height="25" frameX="0" frameY="0" frameWidth="25" frameHeight="25"/>
+    <SubTexture name="Faceless Assistant" x="718" y="1786" width="25" height="25"/>
+    <SubTexture name="Fairy Assistant" x="745" y="1786" width="25" height="25"/>
+    <SubTexture name="Goblin Assistant" x="948" y="1776" width="20" height="25" frameX="-3" frameY="0" frameWidth="25" frameHeight="25"/>
+    <SubTexture name="Mercenary Assistant" x="970" y="1776" width="25" height="24" frameX="0" frameY="-1" frameWidth="25" frameHeight="25"/>
+    <SubTexture name="Plain Assistant" x="1024" y="1776" width="25" height="23" frameX="0" frameY="0" frameWidth="25" frameHeight="25"/>
+    <SubTexture name="Titan Assistant" x="772" y="1786" width="25" height="25"/>
+    <SubTexture name="Undead Assistant" x="870" y="1776" width="25" height="25"/>
+</TextureAtlas>

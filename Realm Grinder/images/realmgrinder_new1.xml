@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:5e84704bea919ceb3754a662c7207952:cbfe14ee87ea2fdaada3d6d14fb3bc8b:8c21b2b70cd0de8cb0e4ecad49dd499d$ -->
+<TextureAtlas imagePath="realmgrinder_new1.png" width="1024" height="2048">
+    <SubTexture name="AlchemistLabTrophy4" x="990" y="947" width="28" height="47" frameX="-11" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="AlchemistLabTrophy5" x="990" y="447" width="30" height="47" frameX="-11" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="AlchemistLabTrophy6" x="990" y="496" width="30" height="47" frameX="-11" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="AlchemistLabTrophy7" x="990" y="545" width="30" height="47" frameX="-11" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="AlchemistLabTrophy8" x="990" y="594" width="30" height="47" frameX="-11" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="AlchemistLabTrophy9" x="990" y="643" width="30" height="47" frameX="-11" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="AncientCoinPieceArtifact" x="741" y="1657" width="37" height="38" frameX="-6" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="AncientHeirloomArtifact" x="702" y="1628" width="37" height="40" frameX="-3" frameY="0" frameWidth="40" frameHeight="40"/>
+    <SubTexture name="AncientPyramidUpgrade2" x="602" y="1211" width="47" height="44" frameX="-2" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="AncientPyramidUpgrade7" x="504" y="1257" width="47" height="44" frameX="-2" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="AncientPyramidUpgrade8" x="454" y="1259" width="47" height="44" frameX="-2" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="AncientPyramidUpgrade9" x="553" y="1257" width="47" height="44" frameX="-2" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="AncientPyramidUpgrade18" x="504" y="1211" width="47" height="44" frameX="-2" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="AncientPyramidUpgrade19" x="553" y="1211" width="47" height="44" frameX="-2" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="AncientPyramidUpgrade20" x="651" y="1246" width="47" height="44" frameX="-2" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="AngelUpgrade7" x="666" y="1707" width="34" height="31" frameX="-7" frameY="-11" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ArchonPerk1" x="127" y="1643" width="39" height="42" frameX="-5" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ArchonUpgrade4" x="633" y="1568" width="26" height="28" frameX="-11" frameY="-12" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ArchonUpgrade7" x="948" y="1675" width="26" height="28" frameX="-11" frameY="-12" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ArtifactTrophy2" x="425" y="1432" width="40" height="45" frameX="-6" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ArtifactTrophy3" x="339" y="1436" width="40" height="45" frameX="-6" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ArtifactTrophy4" x="381" y="1436" width="40" height="45" frameX="-6" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ArtifactTrophy5" x="218" y="1460" width="40" height="45" frameX="-6" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ArtifactTrophy6" x="174" y="1497" width="40" height="45" frameX="-6" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ArtifactTrophy7" x="131" y="1502" width="40" height="45" frameX="-6" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ArtifactTrophy8" x="88" y="1503" width="40" height="45" frameX="-6" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ArtifactTrophy9" x="45" y="1508" width="40" height="45" frameX="-6" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BlacksmithTrophy1" x="749" y="1249" width="45" height="45" frameX="-2" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BlacksmithTrophy2" x="497" y="1349" width="45" height="45" frameX="-2" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BlacksmithTrophy3" x="437" y="1351" width="45" height="45" frameX="-2" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BlacksmithTrophy4" x="796" y="1249" width="45" height="45" frameX="-2" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BlacksmithTrophy5" x="843" y="1249" width="45" height="45" frameX="-2" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BlacksmithTrophy6" x="890" y="1251" width="45" height="45" frameX="-2" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BlacksmithTrophy7" x="937" y="1269" width="45" height="45" frameX="-2" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BlacksmithTrophy8" x="747" y="1296" width="45" height="45" frameX="-2" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BlacksmithTrophy9" x="697" y="1342" width="45" height="45" frameX="-2" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BlacksmithTrophy10" x="700" y="1295" width="45" height="45" frameX="-2" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BlacksmithTrophy11" x="650" y="1338" width="45" height="45" frameX="-2" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BlacksmithTrophy12" x="601" y="1346" width="45" height="45" frameX="-2" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BlacksmithTrophy22" x="544" y="1349" width="45" height="45" frameX="-2" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BottledVoiceArtifact" x="990" y="692" width="30" height="40" frameX="-10" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildBuildingTrophy1" x="990" y="901" width="29" height="44" frameX="-10" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildBuildingTrophy2" x="990" y="285" width="31" height="44" frameX="-10" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildBuildingTrophy3" x="990" y="331" width="31" height="44" frameX="-10" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildBuildingTrophy4" x="2" y="1543" width="40" height="45" frameX="-10" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildBuildingTrophy6" x="602" y="1257" width="47" height="44" frameX="-1" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildBuildingTrophy7" x="350" y="1260" width="47" height="44" frameX="-1" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildBuildingTrophy8" x="399" y="1260" width="47" height="44" frameX="-1" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuyUpgradesTrophy3" x="2" y="1632" width="39" height="47" frameX="0" frameY="-3" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuyUpgradesTrophy5" x="214" y="1590" width="39" height="47" frameX="0" frameY="-3" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuyUpgradesTrophy8" x="170" y="1625" width="39" height="47" frameX="0" frameY="-3" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuyUpgradesTrophy9" x="46" y="1363" width="41" height="47" frameX="0" frameY="-3" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="CastSpellTrophy3" x="888" y="1421" width="44" height="47" frameX="-3" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="CastSpellTrophy6" x="934" y="1447" width="44" height="47" frameX="-3" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="CastSpellTrophy8" x="343" y="1346" width="45" height="47" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="CastSpellTrophy11" x="2" y="2" width="50" height="50"/>
+    <SubTexture name="CastSpellTrophy12" x="54" y="2" width="50" height="50"/>
+    <SubTexture name="CastSpellTrophy13" x="106" y="2" width="50" height="50"/>
+    <SubTexture name="CastSpellTrophy14" x="158" y="2" width="50" height="50"/>
+    <SubTexture name="CastSpellTrophy15" x="210" y="2" width="50" height="50"/>
+    <SubTexture name="CathedralTrophy2" x="155" y="1084" width="48" height="44" frameX="0" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="CathedralTrophy3" x="306" y="1040" width="48" height="44" frameX="0" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="CathedralTrophy4" x="2" y="1085" width="48" height="44" frameX="0" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="CathedralTrophy5" x="52" y="1085" width="48" height="44" frameX="0" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="CathedralTrophy6" x="102" y="1085" width="48" height="44" frameX="0" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="CathedralTrophy7" x="356" y="1078" width="48" height="44" frameX="0" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="CathedralTrophy8" x="205" y="1086" width="48" height="44" frameX="0" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="CathedralTrophy9" x="152" y="1130" width="48" height="44" frameX="0" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="CathedralTrophy12" x="206" y="1040" width="48" height="44" frameX="0" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="CathedralTrophy22" x="256" y="1040" width="48" height="44" frameX="0" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ChaosProofUpgrade" x="262" y="2" width="50" height="50"/>
+    <SubTexture name="ChronoLoadingTrophy" x="314" y="2" width="50" height="50"/>
+    <SubTexture name="ClimateForecastFeat" x="366" y="2" width="50" height="50"/>
+    <SubTexture name="Combo StrikeTier2" x="418" y="2" width="50" height="50"/>
+    <SubTexture name="Combo StrikeTier3" x="470" y="2" width="50" height="50"/>
+    <SubTexture name="Combo StrikeTier4" x="522" y="2" width="50" height="50"/>
+    <SubTexture name="Combo StrikeTier5" x="574" y="2" width="50" height="50"/>
+    <SubTexture name="Combo StrikeTier6" x="626" y="2" width="50" height="50"/>
+    <SubTexture name="Combo StrikeTier7" x="678" y="2" width="50" height="50"/>
+    <SubTexture name="ContingencyAutocastUpgrade" x="730" y="2" width="50" height="50"/>
+    <SubTexture name="CrystalEggUpgrade" x="826" y="1623" width="39" height="36" frameX="-3" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DarkCovenantUpgrade" x="782" y="2" width="50" height="50"/>
+    <SubTexture name="DarkEggUpgrade" x="2" y="1500" width="41" height="41" frameX="-3" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DarkestHeresyFeat" x="834" y="2" width="50" height="50"/>
+    <SubTexture name="DemonChallenge1" x="886" y="2" width="50" height="50"/>
+    <SubTexture name="DemonChallenge2" x="938" y="2" width="50" height="50"/>
+    <SubTexture name="DemonChallenge3" x="2" y="54" width="50" height="50"/>
+    <SubTexture name="DemonFriendship" x="54" y="54" width="50" height="50"/>
+    <SubTexture name="DemonHeritage" x="106" y="54" width="50" height="50"/>
+    <SubTexture name="DemonPerk1" x="85" y="1644" width="39" height="42" frameX="-5" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DemonPerk2" x="551" y="1491" width="40" height="41" frameX="-5" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DiabolicalEvilTrophy" x="158" y="54" width="50" height="50"/>
+    <SubTexture name="Djinn FirstCrystalFragmentArtifact" x="627" y="1674" width="37" height="40" frameX="-8" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DjinnFriendship" x="210" y="54" width="50" height="50"/>
+    <SubTexture name="DjinnHeritage" x="262" y="54" width="50" height="50"/>
+    <SubTexture name="DjinnPerk1" x="43" y="1649" width="39" height="42" frameX="-5" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DjinnPerk2" x="509" y="1492" width="40" height="41" frameX="-5" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DjinnUpgrade2" x="366" y="54" width="50" height="50"/>
+    <SubTexture name="DjinnUpgrade4" x="990" y="39" width="32" height="35" frameX="-8" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DjinnUpgrade5" x="418" y="54" width="50" height="50"/>
+    <SubTexture name="DjinnUpgrade6" x="2" y="988" width="49" height="50" frameX="-1" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DjinnUpgrade7" x="990" y="76" width="32" height="35" frameX="-8" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DjinnUpgrade8" x="470" y="54" width="50" height="50"/>
+    <SubTexture name="DjinnUpgrade9" x="53" y="988" width="49" height="50" frameX="-1" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DjinnUpgrade10" x="990" y="2" width="32" height="35" frameX="-8" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DjinnUpgrade11" x="314" y="54" width="50" height="50"/>
+    <SubTexture name="Dragon's BreathTier2" x="522" y="54" width="50" height="50"/>
+    <SubTexture name="Dragon's BreathTier3" x="574" y="54" width="50" height="50"/>
+    <SubTexture name="Dragon's BreathTier4" x="626" y="54" width="50" height="50"/>
+    <SubTexture name="Dragon's BreathTier5" x="678" y="54" width="50" height="50"/>
+    <SubTexture name="Dragon's BreathTier6" x="730" y="54" width="50" height="50"/>
+    <SubTexture name="Dragon's BreathTier7" x="782" y="54" width="50" height="50"/>
+    <SubTexture name="DragonAlliance" x="834" y="54" width="50" height="50"/>
+    <SubTexture name="DragonBloodline" x="886" y="54" width="50" height="50"/>
+    <SubTexture name="DragonChallenge1" x="938" y="54" width="50" height="50"/>
+    <SubTexture name="DragonChallenge2" x="2" y="106" width="50" height="50"/>
+    <SubTexture name="DragonPerk1" x="2" y="1681" width="39" height="42" frameX="-5" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DragonPerk2" x="465" y="1493" width="40" height="41" frameX="-5" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DragonQuest02" x="833" y="1466" width="44" height="36" frameX="-3" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DragonUpgrade1" x="458" y="1678" width="35" height="35" frameX="-7" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DragonUpgrade4" x="374" y="1713" width="35" height="35" frameX="-7" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DragonUpgrade7" x="330" y="1743" width="35" height="35" frameX="-7" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DragonUpgrade10" x="414" y="1706" width="35" height="35" frameX="-7" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DrowPerk1" x="551" y="1534" width="39" height="42" frameX="-5" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DrowPerk2" x="339" y="1483" width="40" height="41" frameX="-5" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DrowUpgrade1" x="739" y="1697" width="35" height="38" frameX="-7" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DrowUpgrade4" x="581" y="1676" width="35" height="38" frameX="-7" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DrowUpgrade7" x="498" y="1675" width="35" height="38" frameX="-7" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DrowUpgrade10" x="702" y="1717" width="35" height="38" frameX="-7" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DruidPerk1" x="507" y="1535" width="39" height="42" frameX="-5" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DruidPerk2" x="381" y="1483" width="40" height="41" frameX="-5" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DruidUpgrade2" x="158" y="106" width="50" height="50"/>
+    <SubTexture name="DruidUpgrade3" x="210" y="106" width="50" height="50"/>
+    <SubTexture name="DruidUpgrade5" x="262" y="106" width="50" height="50"/>
+    <SubTexture name="DruidUpgrade6" x="314" y="106" width="50" height="50"/>
+    <SubTexture name="DruidUpgrade7" x="986" y="1770" width="36" height="35" frameX="-7" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DruidUpgrade8" x="366" y="106" width="50" height="50"/>
+    <SubTexture name="DruidUpgrade9" x="418" y="106" width="50" height="50"/>
+    <SubTexture name="DruidUpgrade11" x="54" y="106" width="50" height="50"/>
+    <SubTexture name="DruidUpgrade12" x="106" y="106" width="50" height="50"/>
+    <SubTexture name="DuskstoneArtifact" x="172" y="1587" width="40" height="36" frameX="-6" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DwarvenChallenge1" x="470" y="106" width="50" height="50"/>
+    <SubTexture name="DwarvenChallenge2" x="522" y="106" width="50" height="50"/>
+    <SubTexture name="DwarvenChallenge3" x="574" y="106" width="50" height="50"/>
+    <SubTexture name="DwarvenChallenge4" x="626" y="106" width="50" height="50"/>
+    <SubTexture name="DwarvenChallenge5" x="678" y="106" width="50" height="50"/>
+    <SubTexture name="DwarvenFriendship" x="730" y="106" width="50" height="50"/>
+    <SubTexture name="DwarvenHeritage" x="782" y="106" width="50" height="50"/>
+    <SubTexture name="DwarvenInvitation" x="834" y="106" width="50" height="50"/>
+    <SubTexture name="DwarvenPerk1" x="465" y="1536" width="39" height="42" frameX="-5" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DwarvenPerk2" x="423" y="1525" width="40" height="41" frameX="-5" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DwarvenSet" x="129" y="1592" width="39" height="49" frameX="-6" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DwarvenUpgrade1" x="205" y="1775" width="34" height="31" frameX="-8" frameY="-10" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DwarvenUpgrade3" x="938" y="106" width="50" height="50"/>
+    <SubTexture name="DwarvenUpgrade4" x="122" y="1789" width="34" height="31" frameX="-8" frameY="-10" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DwarvenUpgrade6" x="2" y="158" width="50" height="50"/>
+    <SubTexture name="DwarvenUpgrade7" x="81" y="1790" width="34" height="31" frameX="-8" frameY="-10" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DwarvenUpgrade9" x="54" y="158" width="50" height="50"/>
+    <SubTexture name="DwarvenUpgrade10" x="163" y="1776" width="34" height="31" frameX="-8" frameY="-10" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DwarvenUpgrade12" x="886" y="106" width="50" height="50"/>
+    <SubTexture name="EfficientAutocastUpgrade" x="106" y="158" width="50" height="50"/>
+    <SubTexture name="EggCollectionQuest1" x="287" y="1764" width="35" height="34" frameX="-5" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="EggCollectionQuest2" x="656" y="1206" width="48" height="38" frameX="0" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="EggHunterQuest1" x="784" y="1647" width="39" height="36" frameX="-3" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="EggHunterQuest3" x="158" y="158" width="50" height="50"/>
+    <SubTexture name="ElvenChallenge1" x="210" y="158" width="50" height="50"/>
+    <SubTexture name="ElvenChallenge2" x="262" y="158" width="50" height="50"/>
+    <SubTexture name="ElvenChallenge3" x="314" y="158" width="50" height="50"/>
+    <SubTexture name="ElvenFriendship" x="366" y="158" width="50" height="50"/>
+    <SubTexture name="ElvenHeritage" x="418" y="158" width="50" height="50"/>
+    <SubTexture name="ElvenPerk1" x="423" y="1568" width="39" height="42" frameX="-5" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ElvenPerk2" x="339" y="1526" width="40" height="41" frameX="-5" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ElvenUpgrade1" x="310" y="1391" width="27" height="32" frameX="-11" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ElvenUpgrade2" x="888" y="1298" width="45" height="41" frameX="-3" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ElvenUpgrade3" x="522" y="158" width="50" height="50"/>
+    <SubTexture name="ElvenUpgrade4" x="310" y="1459" width="27" height="32" frameX="-11" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ElvenUpgrade5" x="841" y="1339" width="45" height="41" frameX="-3" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ElvenUpgrade6" x="574" y="158" width="50" height="50"/>
+    <SubTexture name="ElvenUpgrade7" x="633" y="1534" width="27" height="32" frameX="-11" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ElvenUpgrade8" x="794" y="1342" width="45" height="41" frameX="-3" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ElvenUpgrade9" x="626" y="158" width="50" height="50"/>
+    <SubTexture name="ElvenUpgrade10" x="310" y="1425" width="27" height="32" frameX="-11" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ElvenUpgrade11" x="841" y="1296" width="45" height="41" frameX="-3" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ElvenUpgrade12" x="470" y="158" width="50" height="50"/>
+    <SubTexture name="EvilProofUpgrade" x="678" y="158" width="50" height="50"/>
+    <SubTexture name="ExcavatedMirageArtifact" x="730" y="158" width="50" height="50"/>
+    <SubTexture name="ExcavationProgress" x="86" y="1593" width="39" height="49" frameX="-4" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ExchangeHighLordTrophy" x="782" y="158" width="50" height="50"/>
+    <SubTexture name="ExchangeLordTrophy" x="834" y="158" width="50" height="50"/>
+    <SubTexture name="ExpertResearcherTrophy" x="42" y="1744" width="37" height="47" frameX="-5" frameY="-3" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FacelessChallenge1" x="886" y="158" width="50" height="50"/>
+    <SubTexture name="FacelessChallenge2" x="938" y="158" width="50" height="50"/>
+    <SubTexture name="FacelessChallenge3" x="2" y="210" width="50" height="50"/>
+    <SubTexture name="FacelessChallenge4" x="54" y="210" width="50" height="50"/>
+    <SubTexture name="FacelessPerk1" x="592" y="1534" width="39" height="42" frameX="-5" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FacelessPerk2" x="381" y="1526" width="40" height="41" frameX="-5" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FacelessTradeTreaty" x="52" y="1220" width="47" height="46" frameX="0" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FacelessUpgrade4" x="215" y="1550" width="40" height="38" frameX="-4" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FacelessUpgrade7" x="257" y="1589" width="40" height="38" frameX="-4" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FacelessUpgrade10" x="258" y="1549" width="40" height="38" frameX="-4" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FactionCoinTrophy2" x="248" y="1267" width="47" height="44" frameX="-2" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FactionCoinTrophy3" x="352" y="1213" width="47" height="45" frameX="-1" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FactionCoinTrophy6" x="54" y="886" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FactionCoinTrophy7" x="106" y="886" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FactionCoinTrophy8" x="158" y="886" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FactionCoinTrophy17" x="938" y="834" width="50" height="49" frameX="0" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FactionCoinTrophy18" x="938" y="885" width="50" height="49" frameX="0" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FactionCoinTrophy21" x="2" y="886" width="50" height="49" frameX="0" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FairyAlliance" x="210" y="886" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FairyFriendship" x="106" y="210" width="50" height="50"/>
+    <SubTexture name="FairyHeritage" x="158" y="210" width="50" height="50"/>
+    <SubTexture name="FairyPerk1" x="662" y="1537" width="39" height="42" frameX="-5" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FairyPerk2" x="216" y="1507" width="40" height="41" frameX="-5" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FairyTradeTreaty" x="2" y="1260" width="47" height="46" frameX="0" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FairyUnion" x="262" y="886" width="50" height="49" frameX="0" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FairyUpgrade3" x="262" y="210" width="50" height="50"/>
+    <SubTexture name="FairyUpgrade6" x="314" y="210" width="50" height="50"/>
+    <SubTexture name="FairyUpgrade7" x="425" y="1398" width="41" height="32" frameX="-4" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FairyUpgrade9" x="366" y="210" width="50" height="50"/>
+    <SubTexture name="FairyUpgrade12" x="210" y="210" width="50" height="50"/>
+    <SubTexture name="FarmTrophy21" x="418" y="210" width="50" height="50"/>
+    <SubTexture name="FightGoblinArmyUpgrade" x="470" y="210" width="50" height="50"/>
+    <SubTexture name="FirstCrystalFragmentArtifact" x="627" y="1674" width="37" height="40" frameX="-8" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FirstIronFragmentArtifact" x="666" y="1625" width="34" height="39" frameX="-11" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FirstStoneFragmentArtifact" x="2" y="1220" width="48" height="38" frameX="-1" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FossilizedRodentArtifact" x="314" y="886" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FossilizedWingArtifact" x="366" y="886" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FutureLinkinTrophy" x="522" y="210" width="50" height="50"/>
+    <SubTexture name="GainClickTrophy13" x="574" y="210" width="50" height="50"/>
+    <SubTexture name="GainClickTrophy14" x="626" y="210" width="50" height="50"/>
+    <SubTexture name="GainClickTrophy15" x="678" y="210" width="50" height="50"/>
+    <SubTexture name="GainClickTrophy16" x="730" y="210" width="50" height="50"/>
+    <SubTexture name="GainClickTrophy17" x="782" y="210" width="50" height="50"/>
+    <SubTexture name="GainClickTrophy18" x="834" y="210" width="50" height="50"/>
+    <SubTexture name="GainClickTrophy19" x="730" y="210" width="50" height="50"/>
+    <SubTexture name="GainCoinTrophy21" x="418" y="886" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GainGemTrophy2" x="990" y="772" width="30" height="30" frameX="-14" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GainGemTrophy3" x="990" y="734" width="30" height="36" frameX="-14" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GainGemTrophy8" x="702" y="1670" width="35" height="45" frameX="-12" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GainGemTrophy17" x="470" y="886" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GainGemTrophy18" x="522" y="886" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GainGemTrophy19" x="574" y="886" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GainGemTrophy20" x="626" y="886" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GainGemTrophy21" x="678" y="886" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GainGemTrophy22" x="886" y="210" width="50" height="50"/>
+    <SubTexture name="GainGemTrophy23" x="938" y="210" width="50" height="50"/>
+    <SubTexture name="GainRubyTrophy6" x="979" y="1669" width="42" height="47" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GainRubyTrophy7" x="51" y="1314" width="42" height="47" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GainRubyTrophy8" x="247" y="1313" width="46" height="47" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GemConversionIcon" x="260" y="1460" width="40" height="45" frameX="-3" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GemPowerUpgrade" x="666" y="1666" width="34" height="39" frameX="-7" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GemUpgrade1" x="544" y="1629" width="35" height="41" frameX="-8" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GemUpgrade2" x="544" y="1672" width="35" height="41" frameX="-8" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GemUpgrade3" x="780" y="1685" width="35" height="41" frameX="-8" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GenealogistTrophy" x="2" y="262" width="50" height="50"/>
+    <SubTexture name="GiftCollectorFeat" x="695" y="1389" width="44" height="44" frameX="0" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GiftCollectorQuest2" x="787" y="1431" width="44" height="38" frameX="-4" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GiftCollectorQuest3" x="601" y="1303" width="47" height="41" frameX="-1" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GoblinAlliance" x="730" y="886" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GoblinChallenge1" x="54" y="262" width="50" height="50"/>
+    <SubTexture name="GoblinChallenge2" x="106" y="262" width="50" height="50"/>
+    <SubTexture name="GoblinChallenge3" x="158" y="262" width="50" height="50"/>
+    <SubTexture name="GoblinFriendship" x="210" y="262" width="50" height="50"/>
+    <SubTexture name="GoblinHeritage" x="262" y="262" width="50" height="50"/>
+    <SubTexture name="GoblinInvasionEvilUpgrade2" x="175" y="1455" width="41" height="40" frameX="0" frameY="-2" frameWidth="41" frameHeight="43"/>
+    <SubTexture name="GoblinInvasionGoodUpgrade1" x="948" y="1705" width="26" height="25" frameX="-8" frameY="-9" frameWidth="41" frameHeight="43"/>
+    <SubTexture name="GoblinInvasionGoodUpgrade3" x="2" y="1590" width="40" height="40" frameX="-1" frameY="-1" frameWidth="41" frameHeight="43"/>
+    <SubTexture name="GoblinInvasionPack2" x="88" y="1414" width="41" height="46" frameX="-5" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GoblinInvasionPack3" x="314" y="262" width="50" height="50"/>
+    <SubTexture name="GoblinInvasionPack4" x="782" y="886" width="50" height="49" frameX="0" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GoblinPerk1" x="703" y="1540" width="39" height="42" frameX="-5" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GoblinPerk2" x="173" y="1544" width="40" height="41" frameX="-5" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GoblinPurseArtifact" x="419" y="1612" width="38" height="42" frameX="-7" frameY="-3" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GoblinsEverywhereFeat" x="574" y="262" width="50" height="50"/>
+    <SubTexture name="GoblinTradeTreaty" x="101" y="1220" width="47" height="46" frameX="0" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GoblinUpgrade2" x="888" y="1341" width="45" height="38" frameX="-3" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GoblinUpgrade3" x="418" y="262" width="50" height="50"/>
+    <SubTexture name="GoblinUpgrade5" x="935" y="1356" width="45" height="38" frameX="-3" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GoblinUpgrade6" x="470" y="262" width="50" height="50"/>
+    <SubTexture name="GoblinUpgrade8" x="888" y="1381" width="45" height="38" frameX="-3" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GoblinUpgrade9" x="522" y="262" width="50" height="50"/>
+    <SubTexture name="GoblinUpgrade11" x="935" y="1316" width="45" height="38" frameX="-3" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GoblinUpgrade12" x="366" y="262" width="50" height="50"/>
+    <SubTexture name="God's HandTier2" x="626" y="262" width="50" height="50"/>
+    <SubTexture name="God's HandTier3" x="678" y="262" width="50" height="50"/>
+    <SubTexture name="God's HandTier4" x="730" y="262" width="50" height="50"/>
+    <SubTexture name="God's HandTier5" x="782" y="262" width="50" height="50"/>
+    <SubTexture name="God's HandTier6" x="834" y="262" width="50" height="50"/>
+    <SubTexture name="God's HandTier7" x="886" y="262" width="50" height="50"/>
+    <SubTexture name="GodsRestTrophy" x="938" y="262" width="50" height="50"/>
+    <SubTexture name="GoldenChickenFeat" x="744" y="1343" width="44" height="47" frameX="-4" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GoldenEggUpgrade" x="867" y="1649" width="39" height="36" frameX="-3" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GoodProofUpgrade" x="2" y="314" width="50" height="50"/>
+    <SubTexture name="Grand BalanceTier2" x="54" y="314" width="50" height="50"/>
+    <SubTexture name="Grand BalanceTier3" x="106" y="314" width="50" height="50"/>
+    <SubTexture name="GrandmasterResearcherTrophy" x="2" y="1776" width="37" height="47" frameX="-5" frameY="-3" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GreyEasterFeat" x="247" y="1765" width="35" height="34" frameX="-5" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HallOfLegendsTrophy13" x="834" y="886" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HallOfLegendsTrophy14" x="886" y="886" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HallOfLegendsTrophy15" x="938" y="936" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HallOfLegendsTrophy16" x="2" y="937" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HallOfLegendsTrophy17" x="54" y="937" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HallOfLegendsTrophy18" x="106" y="937" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HallOfLegendsTrophy19" x="54" y="937" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HallOfLegendsTrophy20" x="106" y="937" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HallOfLegendsTrophy21" x="158" y="937" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HalloweenGhost1" x="346" y="1306" width="47" height="38" frameX="-1" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HalloweenGhost2" x="395" y="1306" width="47" height="38" frameX="-1" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HalloweenGhost3" x="252" y="1220" width="47" height="45" frameX="-1" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HalloweenSkeleton2" x="43" y="1693" width="38" height="49" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HalloweenSkeleton3" x="2" y="1725" width="38" height="49" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HalloweenVampire1" x="506" y="1579" width="38" height="46" frameX="-6" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HalloweenVampire2" x="464" y="1580" width="38" height="46" frameX="-6" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HalloweenVampire3" x="504" y="1627" width="38" height="46" frameX="-6" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HeavensGateTrophy1" x="2" y="1402" width="41" height="47" frameX="-3" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HeavensGateTrophy2" x="267" y="1362" width="41" height="47" frameX="-3" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HeavensGateTrophy3" x="181" y="1363" width="41" height="47" frameX="-3" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HeavensGateTrophy4" x="89" y="1365" width="41" height="47" frameX="-3" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HeavensGateTrophy5" x="45" y="1412" width="41" height="47" frameX="-3" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HeavensGateTrophy6" x="2" y="1451" width="41" height="47" frameX="-3" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HeavensGateTrophy7" x="224" y="1411" width="41" height="47" frameX="-3" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HeavensGateTrophy8" x="267" y="1411" width="41" height="47" frameX="-3" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HeavensGateTrophy9" x="132" y="1412" width="41" height="47" frameX="-3" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HeavensGateTrophy10" x="138" y="1314" width="41" height="47" frameX="-3" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HeavensGateTrophy11" x="181" y="1314" width="41" height="47" frameX="-3" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HeavensGateTrophy12" x="224" y="1362" width="41" height="47" frameX="-3" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HeavensGateTrophy22" x="138" y="1363" width="41" height="47" frameX="-3" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalTrophy2" x="419" y="1656" width="37" height="48" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalTrophy3" x="335" y="1693" width="37" height="48" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalTrophy4" x="291" y="1714" width="37" height="48" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalTrophy5" x="248" y="1715" width="37" height="48" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalTrophy6" x="208" y="1725" width="37" height="48" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalTrophy7" x="166" y="1726" width="37" height="48" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalTrophy8" x="124" y="1739" width="37" height="48" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalTrophy9" x="83" y="1740" width="37" height="48" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalTrophy11" x="300" y="1544" width="37" height="48" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalTrophy12" x="459" y="1628" width="37" height="48" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalTrophy22" x="375" y="1663" width="37" height="48" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalUpgrade2" x="863" y="1521" width="43" height="49" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalUpgrade3" x="574" y="1440" width="43" height="49" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalUpgrade4" x="619" y="1483" width="43" height="49" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalUpgrade5" x="664" y="1486" width="43" height="49" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalUpgrade6" x="709" y="1489" width="43" height="49" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalUpgrade7" x="754" y="1522" width="43" height="49" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalUpgrade8" x="799" y="1555" width="43" height="49" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalUpgrade9" x="844" y="1572" width="43" height="49" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalUpgrade12" x="879" y="1470" width="43" height="49" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalUpgrade13" x="924" y="1496" width="43" height="49" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalUpgrade14" x="969" y="1522" width="43" height="49" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalUpgrade15" x="638" y="1432" width="43" height="49" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalUpgrade16" x="683" y="1435" width="43" height="49" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalUpgrade17" x="728" y="1438" width="43" height="49" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalUpgrade18" x="773" y="1471" width="43" height="49" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalUpgrade19" x="818" y="1504" width="43" height="49" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalUpgrade20" x="908" y="1547" width="43" height="49" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalUpgrade21" x="953" y="1573" width="43" height="49" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalUpgrade22" x="484" y="1396" width="43" height="49" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellPortalUpgrade23" x="529" y="1396" width="43" height="49" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HolyFrenzyTrophy" x="210" y="937" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="IntermediateResearcherTrophy" x="588" y="1578" width="37" height="47" frameX="-5" frameY="-3" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="JawBoneArtifact" x="743" y="1617" width="39" height="38" frameX="-6" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="KnightsJoustTrophy14" x="158" y="314" width="50" height="50"/>
+    <SubTexture name="KnightsJoustTrophy15" x="210" y="314" width="50" height="50"/>
+    <SubTexture name="KnightsJoustTrophy16" x="262" y="314" width="50" height="50"/>
+    <SubTexture name="KnightsJoustTrophy17" x="314" y="314" width="50" height="50"/>
+    <SubTexture name="KnightsJoustTrophy18" x="366" y="314" width="50" height="50"/>
+    <SubTexture name="KnightsJoustTrophy19" x="314" y="314" width="50" height="50"/>
+    <SubTexture name="KnightsJoustTrophy20" x="366" y="314" width="50" height="50"/>
+    <SubTexture name="KnightsJoustTrophy21" x="418" y="314" width="50" height="50"/>
+    <SubTexture name="KnowYourEnemyPartIArtifact" x="301" y="1220" width="47" height="45" frameX="-1" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="KnowYourEnemyPartIIArtifact" x="199" y="1221" width="47" height="45" frameX="-1" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthAssistantUpgrade" x="359" y="988" width="49" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthTrophy2" x="102" y="1176" width="48" height="42" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthTrophy3" x="456" y="1123" width="48" height="42" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthTrophy4" x="506" y="1123" width="48" height="42" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthTrophy5" x="556" y="1123" width="48" height="42" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthTrophy6" x="606" y="1123" width="48" height="42" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthTrophy7" x="656" y="1162" width="48" height="42" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthTrophy8" x="706" y="1205" width="48" height="42" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthTrophy9" x="756" y="1205" width="48" height="42" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthTrophy11" x="2" y="1176" width="48" height="42" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthTrophy12" x="52" y="1176" width="48" height="42" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthTrophy13" x="410" y="988" width="49" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthTrophy14" x="461" y="988" width="49" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthTrophy15" x="512" y="988" width="49" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthTrophy16" x="563" y="988" width="49" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthTrophy17" x="614" y="988" width="49" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthTrophy18" x="665" y="1027" width="49" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthTrophy19" x="614" y="988" width="49" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthTrophy20" x="665" y="1027" width="49" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthTrophy22" x="152" y="1176" width="48" height="42" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthUpgrade2" x="606" y="1078" width="48" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthUpgrade3" x="856" y="1160" width="48" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthUpgrade4" x="906" y="1162" width="48" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthUpgrade5" x="956" y="1180" width="48" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthUpgrade6" x="406" y="1123" width="48" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthUpgrade7" x="355" y="1124" width="48" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthUpgrade8" x="255" y="1131" width="48" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthUpgrade9" x="305" y="1131" width="48" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthUpgrade11" x="255" y="1086" width="48" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthUpgrade12" x="305" y="1086" width="48" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthUpgrade13" x="2" y="1131" width="48" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthUpgrade14" x="52" y="1131" width="48" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthUpgrade15" x="102" y="1131" width="48" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthUpgrade16" x="406" y="1078" width="48" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthUpgrade17" x="456" y="1078" width="48" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthUpgrade18" x="506" y="1078" width="48" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthUpgrade19" x="556" y="1078" width="48" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthUpgrade20" x="656" y="1117" width="48" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthUpgrade21" x="706" y="1160" width="48" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthUpgrade22" x="756" y="1160" width="48" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LabyrinthUpgrade23" x="806" y="1160" width="48" height="43" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LeetTrophy" x="262" y="937" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LoveEveryLanguage" x="470" y="314" width="50" height="50"/>
+    <SubTexture name="LuckyNeutralTrophy" x="648" y="1385" width="45" height="45" frameX="-2" frameY="-3" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="MADMasksTrophy" x="302" y="1493" width="35" height="49" frameX="-7" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="MaelstromTier2" x="522" y="314" width="50" height="50"/>
+    <SubTexture name="Makers Assistant_resource" x="990" y="377" width="31" height="35" frameX="-2" frameY="0" frameWidth="35" frameHeight="35"/>
+    <SubTexture name="MakersFriendship" x="574" y="314" width="50" height="50"/>
+    <SubTexture name="MakersHeritage" x="626" y="314" width="50" height="50"/>
+    <SubTexture name="MakersPerk1" x="661" y="1581" width="39" height="42" frameX="-5" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="MakersPerk2" x="130" y="1549" width="40" height="41" frameX="-5" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="MakersTradeTreaty" x="150" y="1220" width="47" height="46" frameX="0" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="MakersUpgrade1" x="990" y="1032" width="28" height="27" frameX="-9" frameY="-12" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="MakersUpgrade4" x="990" y="1061" width="28" height="27" frameX="-9" frameY="-12" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="MakersUpgrade7" x="310" y="1362" width="28" height="27" frameX="-9" frameY="-12" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ManaWasteTrophy" x="678" y="314" width="50" height="50"/>
+    <SubTexture name="MasterfulAutocastUpgrade" x="730" y="314" width="50" height="50"/>
+    <SubTexture name="MasterResearcherTrophy" x="627" y="1625" width="37" height="47" frameX="-5" frameY="-3" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="MathematicianTrophy" x="782" y="314" width="50" height="50"/>
+    <SubTexture name="MercenaryBadge" x="834" y="314" width="50" height="50"/>
+    <SubTexture name="MercenaryOath" x="886" y="314" width="50" height="50"/>
+    <SubTexture name="MercenarySorceryContract" x="938" y="314" width="50" height="50"/>
+    <SubTexture name="MercenaryUpgrade1" x="295" y="1646" width="38" height="32" frameX="-5" frameY="-12" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="MercenaryUpgrade3" x="106" y="366" width="50" height="50"/>
+    <SubTexture name="MercenaryUpgrade4" x="158" y="366" width="50" height="50"/>
+    <SubTexture name="MercenaryUpgrade5" x="251" y="1681" width="38" height="32" frameX="-5" frameY="-12" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="MercenaryUpgrade7" x="210" y="366" width="50" height="50"/>
+    <SubTexture name="MercenaryUpgrade8" x="262" y="366" width="50" height="50"/>
+    <SubTexture name="MercenaryUpgrade9" x="208" y="1691" width="38" height="32" frameX="-5" frameY="-12" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="MercenaryUpgrade11" x="2" y="366" width="50" height="50"/>
+    <SubTexture name="MercenaryUpgrade12" x="54" y="366" width="50" height="50"/>
+    <SubTexture name="MercenaryUpgrade13_Evil" x="335" y="1659" width="38" height="32" frameX="-5" frameY="-12" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="MercenaryUpgrade13_Good" x="295" y="1680" width="38" height="32" frameX="-5" frameY="-12" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="MiniTreasureArtifact" x="836" y="1422" width="44" height="42" frameX="-2" frameY="-3" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="MonsterBreeder1" x="314" y="366" width="50" height="50"/>
+    <SubTexture name="MonsterBreeder2" x="366" y="366" width="50" height="50"/>
+    <SubTexture name="MonsterBreederFeat" x="418" y="366" width="50" height="50"/>
+    <SubTexture name="Moon BlessingTier2" x="470" y="366" width="50" height="50"/>
+    <SubTexture name="Moon BlessingTier3" x="522" y="366" width="50" height="50"/>
+    <SubTexture name="Moon BlessingTier4" x="574" y="366" width="50" height="50"/>
+    <SubTexture name="Moon BlessingTier5" x="626" y="366" width="50" height="50"/>
+    <SubTexture name="Moon BlessingTier6" x="678" y="366" width="50" height="50"/>
+    <SubTexture name="Moon BlessingTier7" x="730" y="366" width="50" height="50"/>
+    <SubTexture name="NephilimGloryUpgrade" x="782" y="366" width="50" height="50"/>
+    <SubTexture name="NeutralChallengerTrophy" x="155" y="1040" width="49" height="42" frameX="-1" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="NeutralProofUpgrade" x="834" y="366" width="50" height="50"/>
+    <SubTexture name="Night TimeTier2" x="886" y="366" width="50" height="50"/>
+    <SubTexture name="Night TimeTier3" x="938" y="366" width="50" height="50"/>
+    <SubTexture name="Night TimeTier4" x="2" y="418" width="50" height="50"/>
+    <SubTexture name="Night TimeTier5" x="54" y="418" width="50" height="50"/>
+    <SubTexture name="Night TimeTier6" x="106" y="418" width="50" height="50"/>
+    <SubTexture name="Night TimeTier7" x="158" y="418" width="50" height="50"/>
+    <SubTexture name="NightmareFigmentArtifact" x="990" y="854" width="29" height="45" frameX="-10" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="NoRecruitingTrophy" x="210" y="418" width="50" height="50"/>
+    <SubTexture name="NoviceResearcherTrophy" x="588" y="1627" width="37" height="47" frameX="-5" frameY="-3" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ObsidianShardArtifact" x="990" y="804" width="29" height="48" frameX="-7" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OctopusShapedHelmetArtifact" x="467" y="1447" width="40" height="44" frameX="-3" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OilLampArtifact" x="262" y="418" width="50" height="50"/>
+    <SubTexture name="OrbPack1" x="986" y="1807" width="36" height="25" frameX="0" frameY="-25" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrbPack4" x="314" y="418" width="50" height="50"/>
+    <SubTexture name="OrcishArenaTrophy1" x="806" y="1205" width="48" height="42" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaTrophy2" x="456" y="1167" width="48" height="42" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaTrophy3" x="355" y="1169" width="48" height="42" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaTrophy4" x="252" y="1176" width="48" height="42" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaTrophy5" x="202" y="1177" width="48" height="42" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaTrophy6" x="302" y="1176" width="48" height="42" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaTrophy7" x="506" y="1167" width="48" height="42" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaTrophy8" x="556" y="1167" width="48" height="42" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaTrophy9" x="606" y="1167" width="48" height="42" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaTrophy10" x="856" y="1205" width="48" height="42" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaTrophy11" x="906" y="1207" width="48" height="42" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaTrophy12" x="956" y="1225" width="48" height="42" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaTrophy22" x="405" y="1168" width="48" height="42" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaUpgrade1" x="716" y="1070" width="49" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaUpgrade2" x="614" y="1033" width="49" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaUpgrade3" x="869" y="1115" width="49" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaUpgrade4" x="920" y="1117" width="49" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaUpgrade5" x="971" y="1135" width="49" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaUpgrade6" x="2" y="1040" width="49" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaUpgrade7" x="53" y="1040" width="49" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaUpgrade9" x="104" y="1040" width="49" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaUpgrade10" x="767" y="1070" width="49" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaUpgrade11" x="818" y="1070" width="49" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaUpgrade12" x="869" y="1070" width="49" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaUpgrade13" x="920" y="1072" width="49" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaUpgrade14" x="971" y="1090" width="49" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaUpgrade15" x="359" y="1033" width="49" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaUpgrade16" x="410" y="1033" width="49" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaUpgrade17" x="461" y="1033" width="49" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaUpgrade18" x="512" y="1033" width="49" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaUpgrade19" x="563" y="1033" width="49" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaUpgrade20" x="665" y="1072" width="49" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaUpgrade21" x="716" y="1115" width="49" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaUpgrade22" x="767" y="1115" width="49" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrcishArenaUpgrade23" x="818" y="1115" width="49" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="OrderProofUpgrade" x="366" y="418" width="50" height="50"/>
+    <SubTexture name="PerfectComboTrophy" x="418" y="418" width="50" height="50"/>
+    <SubTexture name="PersistentEntropyTrophy" x="470" y="418" width="50" height="50"/>
+    <SubTexture name="PinkCarrotArtifact" x="889" y="1598" width="43" height="49" frameX="-3" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="PlanetaryForceArtifact" x="522" y="418" width="50" height="50"/>
+    <SubTexture name="PowerOrbArtifact" x="175" y="1412" width="41" height="41" frameX="-4" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="PrestigeChallengerTrophy" x="574" y="418" width="50" height="50"/>
+    <SubTexture name="PriorityAutocastUpgrade" x="626" y="418" width="50" height="50"/>
+    <SubTexture name="PumpkinSmasher1" x="678" y="418" width="50" height="50"/>
+    <SubTexture name="PumpkinSmasher2" x="730" y="418" width="50" height="50"/>
+    <SubTexture name="PumpkinSmasher3" x="782" y="418" width="50" height="50"/>
+    <SubTexture name="PumpkinSmasherFeat" x="834" y="418" width="50" height="50"/>
+    <SubTexture name="RadiantEggUpgrade" x="785" y="1606" width="39" height="39" frameX="-3" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="RawEmeraldArtifact" x="423" y="1479" width="40" height="44" frameX="-5" frameY="-3" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="RealmDiggerTrophy" x="44" y="1598" width="39" height="49" frameX="-3" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ReincarnationTrophy1" x="886" y="418" width="50" height="50"/>
+    <SubTexture name="ReincarnationTrophy2" x="470" y="470" width="50" height="50"/>
+    <SubTexture name="ReincarnationTrophy3" x="522" y="470" width="50" height="50"/>
+    <SubTexture name="ReincarnationTrophy4" x="574" y="470" width="50" height="50"/>
+    <SubTexture name="ReincarnationTrophy5" x="626" y="470" width="50" height="50"/>
+    <SubTexture name="ReincarnationTrophy6" x="678" y="470" width="50" height="50"/>
+    <SubTexture name="ReincarnationTrophy7" x="730" y="470" width="50" height="50"/>
+    <SubTexture name="ReincarnationTrophy8" x="782" y="470" width="50" height="50"/>
+    <SubTexture name="ReincarnationTrophy9" x="834" y="470" width="50" height="50"/>
+    <SubTexture name="ReincarnationTrophy10" x="938" y="418" width="50" height="50"/>
+    <SubTexture name="ReincarnationTrophy11" x="2" y="470" width="50" height="50"/>
+    <SubTexture name="ReincarnationTrophy12" x="54" y="470" width="50" height="50"/>
+    <SubTexture name="ReincarnationTrophy13" x="106" y="470" width="50" height="50"/>
+    <SubTexture name="ReincarnationTrophy14" x="158" y="470" width="50" height="50"/>
+    <SubTexture name="ReincarnationTrophy15" x="210" y="470" width="50" height="50"/>
+    <SubTexture name="ReincarnationTrophy16" x="262" y="470" width="50" height="50"/>
+    <SubTexture name="ReincarnationTrophy17" x="314" y="470" width="50" height="50"/>
+    <SubTexture name="ReincarnationTrophy18" x="366" y="470" width="50" height="50"/>
+    <SubTexture name="ReincarnationTrophy19" x="418" y="470" width="50" height="50"/>
+    <SubTexture name="RottenOrganArtifact" x="982" y="1321" width="40" height="49" frameX="-5" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="RoundTableUpgrade" x="886" y="470" width="50" height="50"/>
+    <SubTexture name="RoyalCastleAssistantUpgrade" x="938" y="470" width="50" height="50"/>
+    <SubTexture name="RoyalCastleTrophy1" x="2" y="522" width="50" height="50"/>
+    <SubTexture name="RoyalCastleTrophy2" x="522" y="522" width="50" height="50"/>
+    <SubTexture name="RoyalCastleTrophy3" x="678" y="522" width="50" height="50"/>
+    <SubTexture name="RoyalCastleTrophy4" x="730" y="522" width="50" height="50"/>
+    <SubTexture name="RoyalCastleTrophy5" x="782" y="522" width="50" height="50"/>
+    <SubTexture name="RoyalCastleTrophy6" x="834" y="522" width="50" height="50"/>
+    <SubTexture name="RoyalCastleTrophy7" x="886" y="522" width="50" height="50"/>
+    <SubTexture name="RoyalCastleTrophy8" x="938" y="522" width="50" height="50"/>
+    <SubTexture name="RoyalCastleTrophy9" x="2" y="574" width="50" height="50"/>
+    <SubTexture name="RoyalCastleTrophy10" x="54" y="522" width="50" height="50"/>
+    <SubTexture name="RoyalCastleTrophy11" x="106" y="522" width="50" height="50"/>
+    <SubTexture name="RoyalCastleTrophy12" x="158" y="522" width="50" height="50"/>
+    <SubTexture name="RoyalCastleTrophy13" x="210" y="522" width="50" height="50"/>
+    <SubTexture name="RoyalCastleTrophy14" x="262" y="522" width="50" height="50"/>
+    <SubTexture name="RoyalCastleTrophy15" x="314" y="522" width="50" height="50"/>
+    <SubTexture name="RoyalCastleTrophy16" x="366" y="522" width="50" height="50"/>
+    <SubTexture name="RoyalCastleTrophy17" x="418" y="522" width="50" height="50"/>
+    <SubTexture name="RoyalCastleTrophy18" x="470" y="522" width="50" height="50"/>
+    <SubTexture name="RoyalCastleTrophy19" x="418" y="522" width="50" height="50"/>
+    <SubTexture name="RoyalCastleTrophy20" x="470" y="522" width="50" height="50"/>
+    <SubTexture name="RoyalCastleTrophy21" x="574" y="522" width="50" height="50"/>
+    <SubTexture name="RoyalCastleTrophy22" x="626" y="522" width="50" height="50"/>
+    <SubTexture name="RoyalCastleUpgrade1" x="54" y="574" width="50" height="50"/>
+    <SubTexture name="RoyalCastleUpgrade2" x="626" y="574" width="50" height="50"/>
+    <SubTexture name="RoyalCastleUpgrade3" x="886" y="574" width="50" height="50"/>
+    <SubTexture name="RoyalCastleUpgrade4" x="938" y="574" width="50" height="50"/>
+    <SubTexture name="RoyalCastleUpgrade5" x="2" y="626" width="50" height="50"/>
+    <SubTexture name="RoyalCastleUpgrade6" x="54" y="626" width="50" height="50"/>
+    <SubTexture name="RoyalCastleUpgrade7" x="106" y="626" width="50" height="50"/>
+    <SubTexture name="RoyalCastleUpgrade8" x="158" y="626" width="50" height="50"/>
+    <SubTexture name="RoyalCastleUpgrade9" x="210" y="626" width="50" height="50"/>
+    <SubTexture name="RoyalCastleUpgrade10" x="106" y="574" width="50" height="50"/>
+    <SubTexture name="RoyalCastleUpgrade11" x="158" y="574" width="50" height="50"/>
+    <SubTexture name="RoyalCastleUpgrade12" x="210" y="574" width="50" height="50"/>
+    <SubTexture name="RoyalCastleUpgrade13" x="262" y="574" width="50" height="50"/>
+    <SubTexture name="RoyalCastleUpgrade14" x="314" y="574" width="50" height="50"/>
+    <SubTexture name="RoyalCastleUpgrade15" x="366" y="574" width="50" height="50"/>
+    <SubTexture name="RoyalCastleUpgrade16" x="418" y="574" width="50" height="50"/>
+    <SubTexture name="RoyalCastleUpgrade17" x="470" y="574" width="50" height="50"/>
+    <SubTexture name="RoyalCastleUpgrade18" x="522" y="574" width="50" height="50"/>
+    <SubTexture name="RoyalCastleUpgrade19" x="574" y="574" width="50" height="50"/>
+    <SubTexture name="RoyalCastleUpgrade20" x="678" y="574" width="50" height="50"/>
+    <SubTexture name="RoyalCastleUpgrade21" x="730" y="574" width="50" height="50"/>
+    <SubTexture name="RoyalCastleUpgrade22" x="782" y="574" width="50" height="50"/>
+    <SubTexture name="RoyalCastleUpgrade23" x="834" y="574" width="50" height="50"/>
+    <SubTexture name="RubyReset" x="790" y="1385" width="44" height="44" frameX="-2" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="RubyShineTrophy" x="202" y="1132" width="48" height="43" frameX="0" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="RubyUpgrade1" x="297" y="1267" width="47" height="44" frameX="-2" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="RubyUpgrade2" x="2" y="1308" width="47" height="44" frameX="-2" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="RubyUpgrade3" x="100" y="1268" width="47" height="44" frameX="-2" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="RubyUpgrade4" x="149" y="1268" width="47" height="44" frameX="-2" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="RubyUpgrade5" x="198" y="1268" width="47" height="44" frameX="-2" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="RubyUpgrade6" x="700" y="1249" width="47" height="44" frameX="-2" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="RubyUpgrade7" x="651" y="1292" width="47" height="44" frameX="-2" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="RubyUpgrade8" x="503" y="1303" width="47" height="44" frameX="-2" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="RubyUpgrade9" x="448" y="1305" width="47" height="44" frameX="-2" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="RubyUpgrade10" x="51" y="1268" width="47" height="44" frameX="-2" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="RubyUpgrade21" x="262" y="626" width="50" height="50"/>
+    <SubTexture name="ScarabOfFortuneArtifact" x="591" y="1393" width="45" height="45" frameX="-2" frameY="-3" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="SecondIronFragmentArtifact" x="379" y="1620" width="38" height="41" frameX="-6" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="SecondStoneFragmentArtifact" x="339" y="1621" width="38" height="36" frameX="-8" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="SecretExchangeUpgrade" x="314" y="626" width="50" height="50"/>
+    <SubTexture name="SecretsOfTheAncients" x="390" y="1346" width="45" height="47" frameX="-2" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="SecretsOfTheWarriorsUpgrade" x="366" y="626" width="50" height="50"/>
+    <SubTexture name="SeraphimAlliance" x="418" y="626" width="50" height="50"/>
+    <SubTexture name="SeraphimUpgrade1" x="990" y="414" width="31" height="31" frameX="-9" frameY="-10" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="SilkClothArtifact" x="295" y="1313" width="46" height="47" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="SnowballCurrency" x="258" y="1507" width="40" height="40"/>
+    <SubTexture name="SnowpileQuest3" x="470" y="626" width="50" height="50"/>
+    <SubTexture name="SparkOfLifeArtifact" x="522" y="626" width="50" height="50"/>
+    <SubTexture name="SpeedRunTrophy" x="981" y="1421" width="41" height="49" frameX="-4" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Spiritual SurgeTier3" x="104" y="988" width="49" height="50" frameX="-1" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Spiritual SurgeTier4" x="155" y="988" width="49" height="50" frameX="-1" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Spiritual SurgeTier5" x="206" y="988" width="49" height="50" frameX="-1" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Spiritual SurgeTier6" x="257" y="988" width="49" height="50" frameX="-1" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Spiritual SurgeTier7" x="308" y="988" width="49" height="50" frameX="-1" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="SpookyFeat" x="574" y="626" width="50" height="50"/>
+    <SubTexture name="StoicResistanceTrophy" x="794" y="1296" width="45" height="44" frameX="-2" frameY="-3" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="StonePillarsTrophy21" x="314" y="937" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="StoneTankardArtifact" x="509" y="1447" width="40" height="43" frameX="-2" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="SuggestionMasterTrophy" x="841" y="1382" width="45" height="38" frameX="-1" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="SummeraanAlliance" x="366" y="937" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="SummeraanUpgrade1" x="990" y="113" width="32" height="34" frameX="-9" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="SummeraanUpgrade3" x="626" y="626" width="50" height="50"/>
+    <SubTexture name="SunForceUpgrade2" x="418" y="937" width="50" height="49" frameX="0" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="SupportGoblinArmyUpgrade" x="678" y="626" width="50" height="50"/>
+    <SubTexture name="SurveyEquipment" x="379" y="1569" width="38" height="49" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Temporal FluxTier2" x="730" y="626" width="50" height="50"/>
+    <SubTexture name="ThatExcavatedQuicklyTrophy" x="95" y="1314" width="41" height="49" frameX="-2" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ThirdCrystalFragmentArtifact" x="741" y="1392" width="44" height="44" frameX="-4" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="TieredAutocastUpgrade" x="782" y="626" width="50" height="50"/>
+    <SubTexture name="TimewarpIcon1" x="834" y="626" width="50" height="50"/>
+    <SubTexture name="TimewarpIcon2" x="886" y="626" width="50" height="50"/>
+    <SubTexture name="TimewarpIcon3" x="938" y="626" width="50" height="50"/>
+    <SubTexture name="TitanAlliance" x="470" y="937" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="TitanChallenge1" x="2" y="678" width="50" height="50"/>
+    <SubTexture name="TitanChallenge2" x="54" y="678" width="50" height="50"/>
+    <SubTexture name="TitanChallenge3" x="106" y="678" width="50" height="50"/>
+    <SubTexture name="TitanChallenge4" x="158" y="678" width="50" height="50"/>
+    <SubTexture name="TitanFriendship" x="210" y="678" width="50" height="50"/>
+    <SubTexture name="TitanHelmetArtifact" x="552" y="1303" width="47" height="44" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="TitanHeritage" x="262" y="678" width="50" height="50"/>
+    <SubTexture name="TitanPerk1" x="744" y="1573" width="39" height="42" frameX="-5" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="TitanPerk2" x="87" y="1550" width="40" height="41" frameX="-5" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="TitanTradeTreaty" x="455" y="1211" width="47" height="46" frameX="0" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="TitanUnion" x="980" y="1472" width="42" height="48" frameX="-4" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="TitanUpgrade1" x="990" y="149" width="32" height="32" frameX="-7" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="TitanUpgrade3" x="366" y="678" width="50" height="50"/>
+    <SubTexture name="TitanUpgrade4" x="990" y="217" width="32" height="32" frameX="-7" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="TitanUpgrade6" x="418" y="678" width="50" height="50"/>
+    <SubTexture name="TitanUpgrade7" x="990" y="251" width="32" height="32" frameX="-7" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="TitanUpgrade9" x="470" y="678" width="50" height="50"/>
+    <SubTexture name="TitanUpgrade10" x="990" y="183" width="32" height="32" frameX="-7" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="TitanUpgrade12" x="314" y="678" width="50" height="50"/>
+    <SubTexture name="TreasureClickTrophy12" x="522" y="678" width="50" height="50"/>
+    <SubTexture name="TreasureCoinUpgrade4" x="938" y="1031" width="50" height="39" frameX="0" frameY="-10" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="TreasureCoinUpgrade5" x="522" y="937" width="50" height="49" frameX="0" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="TripleWeirdnessTrophy" x="574" y="678" width="50" height="50"/>
+    <SubTexture name="TrophyUpgrade1" x="982" y="1372" width="40" height="47" frameX="-5" frameY="-3" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="TrueNightTrophy" x="574" y="937" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Undead Symbol" x="548" y="1578" width="38" height="49" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="UndeadAlliance" x="626" y="937" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="UndeadChallenge1" x="626" y="678" width="50" height="50"/>
+    <SubTexture name="UndeadChallenge2" x="678" y="678" width="50" height="50"/>
+    <SubTexture name="UndeadChallenge3" x="730" y="678" width="50" height="50"/>
+    <SubTexture name="UndeadFriendship" x="782" y="678" width="50" height="50"/>
+    <SubTexture name="UndeadHeritage" x="834" y="678" width="50" height="50"/>
+    <SubTexture name="UndeadPerk1" x="702" y="1584" width="39" height="42" frameX="-5" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="UndeadPerk2" x="44" y="1555" width="40" height="41" frameX="-5" frameY="-9" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="UndeadSet" x="935" y="1396" width="44" height="49" frameX="-6" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="UndeadTradeTreaty" x="405" y="1212" width="47" height="46" frameX="0" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="UndeadUpgrade2" x="88" y="1462" width="41" height="39" frameX="-5" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="UndeadUpgrade4" x="998" y="1573" width="23" height="34" frameX="-13" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="UndeadUpgrade5" x="339" y="1395" width="41" height="39" frameX="-5" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="UndeadUpgrade8" x="382" y="1395" width="41" height="39" frameX="-5" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="UndeadUpgrade11" x="131" y="1461" width="41" height="39" frameX="-5" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="UnderworldDiplomacy" x="886" y="678" width="50" height="50"/>
+    <SubTexture name="UnderworldResearcherTrophy" x="938" y="678" width="50" height="50"/>
+    <SubTexture name="UnholidaysFeat" x="2" y="730" width="50" height="50"/>
+    <SubTexture name="UniqueAngelQuest" x="54" y="730" width="50" height="50"/>
+    <SubTexture name="UniqueDemonQuest" x="106" y="730" width="50" height="50"/>
+    <SubTexture name="UniqueDragonQuest" x="158" y="730" width="50" height="50"/>
+    <SubTexture name="UniqueDrowQuest" x="210" y="730" width="50" height="50"/>
+    <SubTexture name="UniqueDruidQuest" x="262" y="730" width="50" height="50"/>
+    <SubTexture name="UniqueElvenQuest" x="314" y="730" width="50" height="50"/>
+    <SubTexture name="UniqueFacelessQuest" x="366" y="730" width="50" height="50"/>
+    <SubTexture name="UniqueFairyQuest" x="418" y="730" width="50" height="50"/>
+    <SubTexture name="UniqueMercenaryQuest" x="470" y="730" width="50" height="50"/>
+    <SubTexture name="UniqueTitanQuest" x="522" y="730" width="50" height="50"/>
+    <SubTexture name="UniqueUndeadQuest" x="574" y="730" width="50" height="50"/>
+    <SubTexture name="UnitaryTrophy" x="934" y="1624" width="43" height="49" frameX="0" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="VanillaChallengerTrophy" x="626" y="730" width="50" height="50"/>
+    <SubTexture name="VanillaResearcherTrophy" x="678" y="730" width="50" height="50"/>
+    <SubTexture name="VeteranFigurineArtifact" x="2" y="1354" width="42" height="46" frameX="-2" frameY="-3" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="VoodooDollArtifact" x="45" y="1461" width="41" height="45" frameX="-4" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WallChunkArtifact" x="730" y="730" width="50" height="50"/>
+    <SubTexture name="WarriorBarracksTrophy3" x="834" y="982" width="50" height="42" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WarriorBarracksTrophy4" x="886" y="982" width="50" height="42" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WarriorBarracksTrophy5" x="938" y="987" width="50" height="42" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WarriorBarracksTrophy6" x="730" y="1026" width="50" height="42" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WarriorBarracksTrophy7" x="782" y="1026" width="50" height="42" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WarriorBarracksTrophy8" x="834" y="1026" width="50" height="42" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WarriorBarracksTrophy9" x="886" y="1026" width="50" height="42" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WarriorBarracksTrophy21" x="730" y="982" width="50" height="42" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WarriorBarracksTrophy22" x="782" y="982" width="50" height="42" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WarriorBarracksUpgrade4" x="678" y="937" width="50" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WarriorBarracksUpgrade5" x="730" y="937" width="50" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WarriorBarracksUpgrade6" x="782" y="937" width="50" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WarriorBarracksUpgrade7" x="834" y="937" width="50" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WarriorBarracksUpgrade8" x="886" y="937" width="50" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WarriorBarracksUpgrade9" x="678" y="982" width="50" height="43" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WinterlyUpgrade1" x="990" y="996" width="28" height="34" frameX="-11" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WinterlyUpgrade2" x="979" y="1624" width="43" height="43" frameX="-5" frameY="-3" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WinterlyUpgrade3" x="782" y="730" width="50" height="50"/>
+    <SubTexture name="WitchConclaveAssistantUpgrade" x="834" y="730" width="50" height="50"/>
+    <SubTexture name="WitchConclaveTrophy1" x="886" y="730" width="50" height="50"/>
+    <SubTexture name="WitchConclaveTrophy2" x="418" y="782" width="50" height="50"/>
+    <SubTexture name="WitchConclaveTrophy3" x="574" y="782" width="50" height="50"/>
+    <SubTexture name="WitchConclaveTrophy4" x="626" y="782" width="50" height="50"/>
+    <SubTexture name="WitchConclaveTrophy5" x="678" y="782" width="50" height="50"/>
+    <SubTexture name="WitchConclaveTrophy6" x="730" y="782" width="50" height="50"/>
+    <SubTexture name="WitchConclaveTrophy7" x="782" y="782" width="50" height="50"/>
+    <SubTexture name="WitchConclaveTrophy8" x="834" y="782" width="50" height="50"/>
+    <SubTexture name="WitchConclaveTrophy9" x="886" y="782" width="50" height="50"/>
+    <SubTexture name="WitchConclaveTrophy10" x="938" y="730" width="50" height="50"/>
+    <SubTexture name="WitchConclaveTrophy11" x="2" y="782" width="50" height="50"/>
+    <SubTexture name="WitchConclaveTrophy12" x="54" y="782" width="50" height="50"/>
+    <SubTexture name="WitchConclaveTrophy13" x="106" y="782" width="50" height="50"/>
+    <SubTexture name="WitchConclaveTrophy14" x="158" y="782" width="50" height="50"/>
+    <SubTexture name="WitchConclaveTrophy15" x="210" y="782" width="50" height="50"/>
+    <SubTexture name="WitchConclaveTrophy16" x="262" y="782" width="50" height="50"/>
+    <SubTexture name="WitchConclaveTrophy17" x="314" y="782" width="50" height="50"/>
+    <SubTexture name="WitchConclaveTrophy18" x="366" y="782" width="50" height="50"/>
+    <SubTexture name="WitchConclaveTrophy19" x="314" y="782" width="50" height="50"/>
+    <SubTexture name="WitchConclaveTrophy20" x="366" y="782" width="50" height="50"/>
+    <SubTexture name="WitchConclaveTrophy21" x="470" y="782" width="50" height="50"/>
+    <SubTexture name="WitchConclaveTrophy22" x="522" y="782" width="50" height="50"/>
+    <SubTexture name="WitchConclaveUpgrade1" x="938" y="782" width="50" height="50"/>
+    <SubTexture name="WitchConclaveUpgrade3" x="522" y="834" width="50" height="50"/>
+    <SubTexture name="WitchConclaveUpgrade4" x="574" y="834" width="50" height="50"/>
+    <SubTexture name="WitchConclaveUpgrade5" x="626" y="834" width="50" height="50"/>
+    <SubTexture name="WitchConclaveUpgrade6" x="678" y="834" width="50" height="50"/>
+    <SubTexture name="WitchConclaveUpgrade7" x="730" y="834" width="50" height="50"/>
+    <SubTexture name="WitchConclaveUpgrade8" x="782" y="834" width="50" height="50"/>
+    <SubTexture name="WitchConclaveUpgrade9" x="834" y="834" width="50" height="50"/>
+    <SubTexture name="WitchConclaveUpgrade10" x="2" y="834" width="50" height="50"/>
+    <SubTexture name="WitchConclaveUpgrade11" x="54" y="834" width="50" height="50"/>
+    <SubTexture name="WitchConclaveUpgrade12" x="106" y="834" width="50" height="50"/>
+    <SubTexture name="WitchConclaveUpgrade13" x="158" y="834" width="50" height="50"/>
+    <SubTexture name="WitchConclaveUpgrade14" x="210" y="834" width="50" height="50"/>
+    <SubTexture name="WitchConclaveUpgrade15" x="262" y="834" width="50" height="50"/>
+    <SubTexture name="WitchConclaveUpgrade16" x="314" y="834" width="50" height="50"/>
+    <SubTexture name="WitchConclaveUpgrade17" x="366" y="834" width="50" height="50"/>
+    <SubTexture name="WitchConclaveUpgrade22" x="418" y="834" width="50" height="50"/>
+    <SubTexture name="WitchConclaveUpgrade23" x="470" y="834" width="50" height="50"/>
+    <SubTexture name="WizardTowerTrophy21" x="886" y="834" width="50" height="50"/>
+    <SubTexture name="WizardTowerUpgrade2" x="908" y="1675" width="38" height="50" frameX="-11" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WizardTowerUpgrade3" x="339" y="1569" width="38" height="50" frameX="-11" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WizardTowerUpgrade4" x="299" y="1594" width="38" height="50" frameX="-11" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WizardTowerUpgrade5" x="255" y="1629" width="38" height="50" frameX="-11" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WizardTowerUpgrade6" x="211" y="1639" width="38" height="50" frameX="-11" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WizardTowerUpgrade7" x="168" y="1674" width="38" height="50" frameX="-11" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WizardTowerUpgrade8" x="126" y="1687" width="38" height="50" frameX="-11" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WizardTowerUpgrade9" x="84" y="1688" width="38" height="50" frameX="-11" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WizardTowerUpgrade19" x="984" y="1269" width="38" height="50" frameX="-11" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WizardTowerUpgrade20" x="866" y="1687" width="38" height="50" frameX="-11" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WizardTowerUpgrade21" x="906" y="1727" width="38" height="50" frameX="-11" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WizardTowerUpgrade22" x="976" y="1718" width="38" height="50" frameX="-11" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WizardTowerUpgrade23" x="946" y="1770" width="38" height="50" frameX="-11" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="WoodenEggUpgrade" x="825" y="1661" width="39" height="36" frameX="-3" frameY="-8" frameWidth="50" frameHeight="50"/>
+</TextureAtlas>

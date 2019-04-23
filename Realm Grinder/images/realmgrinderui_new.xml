@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:f0dd6ba38d780178f6fec14810d1650a:863dd2975da5a1c915ff7924a23b0812:0d8abe4937df4ddf68976b2f7aa0c07b$ -->
+<TextureAtlas imagePath="realmgrinderui_new.png" width="2048" height="2048">
+    <SubTexture name="35x35manaBubble_Full_valentine" x="52" y="1792" width="35" height="35"/>
+    <SubTexture name="abdicateButton_Down" x="431" y="1543" width="53" height="53"/>
+    <SubTexture name="abdicateButton_Hover" x="485" y="1545" width="53" height="53"/>
+    <SubTexture name="abdicateButton_Up" x="619" y="1872" width="53" height="53"/>
+    <SubTexture name="abdicateReincarnate_Disabled" x="869" y="1949" width="53" height="53"/>
+    <SubTexture name="AlchemyUpgrade" x="821" y="1428" width="46" height="44" frameX="-3" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="AlertPing" x="2031" y="668" width="16" height="17"/>
+    <SubTexture name="AlertPingEmpty" x="2031" y="686" width="16" height="17"/>
+    <SubTexture name="AllCreationEffect" x="113" y="2021" width="25" height="25"/>
+    <SubTexture name="AllCreationIcon" x="1763" y="776" width="50" height="50"/>
+    <SubTexture name="Angel Assistant_resource" x="88" y="1792" width="35" height="35"/>
+    <SubTexture name="angelBuilding_Disabled" x="1910" y="399" width="130" height="57"/>
+    <SubTexture name="angelBuilding_Down" x="1910" y="457" width="130" height="57"/>
+    <SubTexture name="angelBuilding_Hover" x="1382" y="229" width="130" height="57"/>
+    <SubTexture name="angelBuilding_Up" x="1382" y="287" width="130" height="57"/>
+    <SubTexture name="AngelCoinSmall" x="574" y="1071" width="26" height="26"/>
+    <SubTexture name="AngelTrim" x="1209" y="431" width="20" height="20"/>
+    <SubTexture name="AngelTrim_Hover" x="1209" y="452" width="20" height="20"/>
+    <SubTexture name="Archon Assistant_resource" x="1196" y="1004" width="29" height="35" frameX="-3" frameY="0" frameWidth="35" frameHeight="35"/>
+    <SubTexture name="archonBuilding_Disabled" x="1382" y="345" width="130" height="57"/>
+    <SubTexture name="archonBuilding_Down" x="1381" y="403" width="130" height="57"/>
+    <SubTexture name="archonBuilding_Hover" x="1381" y="461" width="130" height="57"/>
+    <SubTexture name="archonBuilding_Up" x="1903" y="515" width="130" height="57"/>
+    <SubTexture name="ArchonTrim" x="1209" y="473" width="20" height="20"/>
+    <SubTexture name="ArchonTrim_Hover" x="1209" y="494" width="20" height="20"/>
+    <SubTexture name="ArrowDown" x="1766" y="697" width="47" height="78" frameX="0" frameY="-1" frameWidth="47" frameHeight="80"/>
+    <SubTexture name="ArrowLeft" x="1880" y="1276" width="78" height="47" frameX="-1" frameY="0" frameWidth="80" frameHeight="47"/>
+    <SubTexture name="ArrowRight" x="1879" y="1324" width="78" height="47" frameX="-1" frameY="0" frameWidth="80" frameHeight="47"/>
+    <SubTexture name="ArrowUp" x="352" y="1734" width="47" height="78" frameX="0" frameY="-1" frameWidth="47" frameHeight="80"/>
+    <SubTexture name="background-old-skin" x="1434" y="1151" width="32" height="32"/>
+    <SubTexture name="BalanceTrim" x="1209" y="515" width="20" height="20"/>
+    <SubTexture name="BalanceTrim_Hover" x="1207" y="802" width="20" height="20"/>
+    <SubTexture name="banner" x="967" y="879" width="100" height="64"/>
+    <SubTexture name="BGView" x="1143" y="1461" width="40" height="39" frameX="0" frameY="0" frameWidth="40" frameHeight="40"/>
+    <SubTexture name="BigRuby" x="1910" y="90" width="136" height="134" frameX="-8" frameY="-10" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="black_GoldTrim" x="735" y="1730" width="20" height="20"/>
+    <SubTexture name="black_GoldTrim_Hover" x="777" y="1730" width="20" height="20"/>
+    <SubTexture name="black_GoldTrimDisabled" x="756" y="1730" width="20" height="20"/>
+    <SubTexture name="black_SilverTrim" x="798" y="1412" width="20" height="20"/>
+    <SubTexture name="black_SilverTrim_Disabled" x="798" y="1433" width="20" height="20"/>
+    <SubTexture name="black_SteelTrim" x="798" y="1454" width="20" height="20"/>
+    <SubTexture name="BlackDragonsBreathEffect" x="139" y="2021" width="25" height="25"/>
+    <SubTexture name="blackStone_Header" x="967" y="840" width="107" height="38"/>
+    <SubTexture name="blackStone_SteelTrim_Current" x="1772" y="1822" width="60" height="60"/>
+    <SubTexture name="blackStone_SteelTrim_Disabled" x="74" y="1885" width="60" height="60"/>
+    <SubTexture name="blackStone_SteelTrim_Down" x="135" y="1885" width="60" height="60"/>
+    <SubTexture name="blackStone_SteelTrim_Hover" x="196" y="1885" width="60" height="60"/>
+    <SubTexture name="blackStone_SteelTrim_Up" x="199" y="1824" width="60" height="60"/>
+    <SubTexture name="blackStone_WoodTrim_Current" x="1777" y="1452" width="58" height="58"/>
+    <SubTexture name="blackStone_WoodTrim_Disabled" x="1777" y="1511" width="58" height="58"/>
+    <SubTexture name="blackStone_WoodTrim_Down" x="1777" y="1570" width="58" height="58"/>
+    <SubTexture name="blackStone_WoodTrim_Hover" x="1777" y="1629" width="58" height="58"/>
+    <SubTexture name="blackStone_WoodTrim_Up" x="1777" y="1688" width="58" height="58"/>
+    <SubTexture name="BloodCurrency" x="1836" y="1541" width="40" height="40"/>
+    <SubTexture name="BloodFrenzyEffect" x="1361" y="471" width="19" height="25" frameX="-3" frameY="0" frameWidth="25" frameHeight="25"/>
+    <SubTexture name="BloodFrenzyIcon" x="1024" y="1340" width="41" height="50" frameX="-4" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BloodMax" x="132" y="435" width="128" height="128"/>
+    <SubTexture name="BoneCurrency" x="1836" y="1582" width="40" height="40"/>
+    <SubTexture name="BoneMax" x="1" y="493" width="128" height="128"/>
+    <SubTexture name="BottomBar" x="130" y="564" width="128" height="55"/>
+    <SubTexture name="BrainwaveEffect" x="570" y="2015" width="25" height="25"/>
+    <SubTexture name="BrainwaveIcon" x="601" y="1430" width="31" height="48" frameX="-11" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="btn_abdication" x="1335" y="1734" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_abdication_Disabled" x="1412" y="1810" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_abdication_Down" x="1540" y="1872" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Angel" x="1625" y="1330" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Angel_Disabled" x="1546" y="1333" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Angel_Down" x="1702" y="1331" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Archon" x="1623" y="1407" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Archon_Disabled" x="1700" y="1408" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Archon_Down" x="1958" y="1346" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_BuyMAX" x="1879" y="1372" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_BuyMAX_Down" x="1956" y="1423" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Demon" x="1879" y="1449" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Demon_Disabled" x="1956" y="1500" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Demon_Down" x="1878" y="1526" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Djinn" x="1955" y="1577" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Djinn_Disabled" x="1227" y="1271" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Djinn_Down" x="1346" y="1272" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Dragon" x="1227" y="1348" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Dragon_Disabled" x="1066" y="1373" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Dragon_Down" x="1423" y="1348" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Drow" x="1346" y="1349" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Drow_Disabled" x="1227" y="1425" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Drow_Down" x="1423" y="1425" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Druid" x="1346" y="1426" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Druid_Disabled" x="1546" y="1410" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Druid_Down" x="1623" y="1484" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Dwarven" x="1700" y="1485" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Dwarven_Disabled" x="1546" y="1487" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Dwarven_Down" x="1623" y="1561" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Elven" x="1700" y="1562" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Elven_Disabled" x="1423" y="1502" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Elven_Down" x="1546" y="1564" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Evil" x="1623" y="1638" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Evil_Disabled" x="1346" y="1503" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Evil_Down" x="1423" y="1579" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Faceless" x="1877" y="1603" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Faceless_Disabled" x="1700" y="1639" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Faceless_Down" x="1541" y="1641" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Fairy" x="1618" y="1715" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Fairy_Disabled" x="1695" y="1716" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Fairy_Down" x="1954" y="1654" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Goblin" x="1877" y="1680" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Goblin_Disabled" x="1954" y="1731" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Goblin_Down" x="1877" y="1757" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Good" x="1954" y="1808" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Good_Disabled" x="938" y="1391" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Good_Down" x="1066" y="1450" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Makers" x="1225" y="1502" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Makers_Disabled" x="1143" y="1522" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Makers_Down" x="1220" y="1579" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_menu_Down" x="257" y="691" width="126" height="126" frameX="-2" frameY="-2" frameWidth="130" frameHeight="130"/>
+    <SubTexture name="btn_menuActivate" x="1910" y="268" width="130" height="130"/>
+    <SubTexture name="btn_menuDeactivate" x="130" y="620" width="126" height="126" frameX="-2" frameY="-2" frameWidth="130" frameHeight="130"/>
+    <SubTexture name="btn_Mercenary" x="1340" y="1580" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Mercenary_Disabled" x="1417" y="1656" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Mercenary_Down" x="1541" y="1718" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Neutral" x="1618" y="1792" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Neutral_Disabled" x="1695" y="1793" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Neutral_Down" x="1335" y="1657" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Reincarnate" x="1412" y="1733" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Reincarnate_Disabled" x="1540" y="1795" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Reincarnate_Down" x="1617" y="1869" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_tan" x="1617" y="1946" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_tan_Disabled" x="938" y="1545" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_tan_Down" x="1066" y="1604" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Titan" x="1694" y="1870" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Titan_Disabled" x="293" y="1599" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Titan_Down" x="370" y="1599" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Undead" x="1871" y="1834" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Undead_Disabled" x="447" y="1599" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Undead_Down" x="938" y="1468" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Vanilla" x="1066" y="1527" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Vanilla_Disabled" x="1143" y="1599" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="btn_Vanilla_Down" x="1220" y="1656" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="BuildingAlchemistLab" x="575" y="846" width="28" height="47" frameX="-11" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingAncientPyramid" x="673" y="1887" width="47" height="38" frameX="-2" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingArboreal City" x="1500" y="1348" width="45" height="50" frameX="-3" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingBlacksmith" x="1500" y="1546" width="45" height="45" frameX="-2" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingBrothel" x="1568" y="1949" width="48" height="50" frameX="-1" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingBurning Abyss" x="876" y="1887" width="50" height="36" frameX="0" frameY="-10" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingCathedral" x="750" y="2004" width="48" height="43" frameX="0" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingCitadel" x="54" y="1675" width="50" height="42" frameX="0" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingDarkTemple" x="1101" y="2000" width="50" height="46" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingDeepMine" x="1770" y="603" width="43" height="49" frameX="-3" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingDragon Pasture" x="1763" y="827" width="50" height="50"/>
+    <SubTexture name="BuildingDwarven Forge" x="1762" y="878" width="50" height="50"/>
+    <SubTexture name="BuildingEnchanted Field" x="897" y="2003" width="50" height="44" frameX="0" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingEvilFortress" x="846" y="2004" width="50" height="42" frameX="0" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingFarm" x="1837" y="1210" width="42" height="50" frameX="-1" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingFlesh Workshop" x="1466" y="1998" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingForbidden Library" x="948" y="2003" width="50" height="44" frameX="0" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingFreemason's Hall" x="1790" y="1234" width="46" height="50" frameX="-2" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingGoblin Bank" x="534" y="1824" width="49" height="47" frameX="0" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingHallOfLegends" x="679" y="1765" width="49" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingHeaven's Domain" x="550" y="1341" width="50" height="50"/>
+    <SubTexture name="BuildingHeavensGate" x="1837" y="1403" width="41" height="46" frameX="-3" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingHellPortal" x="1429" y="1217" width="37" height="48" frameX="-6" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingHigh Bastion" x="1837" y="1301" width="41" height="50" frameX="-5" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingHoly Site" x="1500" y="1399" width="45" height="50" frameX="-4" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingInfernal Realm" x="483" y="1824" width="50" height="47" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingInn" x="1302" y="2000" width="48" height="44" frameX="-1" frameY="-3" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingIronStronghold" x="190" y="1676" width="50" height="41" frameX="0" frameY="-3" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingKnightsJoust" x="501" y="1676" width="48" height="50" frameX="0" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingLabyrinth" x="1568" y="2000" width="48" height="40" frameX="-1" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingMercenary Camp" x="999" y="2003" width="50" height="44" frameX="0" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingMonastery" x="927" y="1887" width="50" height="36" frameX="0" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingMountain Palace" x="550" y="1392" width="50" height="50"/>
+    <SubTexture name="BuildingNecropolis" x="685" y="1823" width="49" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingOlympian Hall" x="1015" y="1391" width="50" height="50"/>
+    <SubTexture name="BuildingOrcishArena" x="772" y="1887" width="48" height="37" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingRoyalCastle" x="1015" y="1442" width="50" height="50"/>
+    <SubTexture name="BuildingSlave Market" x="343" y="1676" width="49" height="41" frameX="-1" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingSlavePen" x="1" y="1792" width="50" height="35" frameX="0" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingSpider Sanctuary" x="241" y="1676" width="50" height="41" frameX="0" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingStonehenge" x="1489" y="1773" width="50" height="50"/>
+    <SubTexture name="BuildingStonePillars" x="729" y="1765" width="48" height="49" frameX="-2" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingSunken City" x="343" y="1553" width="50" height="45" frameX="0" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingSwarming Tower" x="1187" y="1262" width="39" height="50" frameX="0" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingTraining Grounds" x="648" y="2004" width="50" height="43" frameX="0" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingTyrant Garrison" x="630" y="1765" width="48" height="50" frameX="0" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingUndercity" x="1015" y="1493" width="50" height="50"/>
+    <SubTexture name="BuildingWarriorBarracks" x="978" y="1887" width="50" height="36" frameX="0" frameY="-7" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingWitchConclave" x="1489" y="1824" width="50" height="50"/>
+    <SubTexture name="BuildingWizardTower" x="575" y="894" width="27" height="50" frameX="-11" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="BuildingWyrm's Den" x="1489" y="1875" width="50" height="50"/>
+    <SubTexture name="BuildingZiggurat" x="1050" y="2003" width="50" height="44" frameX="0" frameY="-3" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="buyButton_Disabled" x="1555" y="1111" width="83" height="36"/>
+    <SubTexture name="buyButton_Down" x="1639" y="1111" width="83" height="36"/>
+    <SubTexture name="buyButton_Hover" x="1555" y="1148" width="83" height="36"/>
+    <SubTexture name="buyButton_Up" x="1467" y="1162" width="83" height="36"/>
+    <SubTexture name="CallToArmsEffect" x="596" y="2015" width="25" height="25"/>
+    <SubTexture name="CallToArmsIcon" x="1790" y="1285" width="46" height="50" frameX="-2" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="CallToLoveEffect" x="622" y="2015" width="25" height="25"/>
+    <SubTexture name="CallToLoveIcon" x="1015" y="1544" width="50" height="50"/>
+    <SubTexture name="CannibalizeEffect" x="326" y="1789" width="25" height="25"/>
+    <SubTexture name="CannibalizeIcon" x="1015" y="1595" width="50" height="50"/>
+    <SubTexture name="CatalystIcon" x="550" y="1443" width="50" height="50"/>
+    <SubTexture name="ChaosTrim" x="1206" y="823" width="20" height="20"/>
+    <SubTexture name="ChaosTrim_Hover" x="1206" y="844" width="20" height="20"/>
+    <SubTexture name="character" x="1" y="1885" width="72" height="135"/>
+    <SubTexture name="checkBox_Empty" x="1434" y="1184" width="32" height="32"/>
+    <SubTexture name="checkBox_Empty_Small" x="1492" y="519" width="16" height="16"/>
+    <SubTexture name="checkBox_Fill" x="444" y="2015" width="32" height="32"/>
+    <SubTexture name="checkBox_Fill_Small" x="1492" y="536" width="16" height="16"/>
+    <SubTexture name="closeButton" x="190" y="1644" width="31" height="31"/>
+    <SubTexture name="closeButton_Down" x="412" y="2016" width="31" height="31"/>
+    <SubTexture name="closeButton_Hover" x="477" y="2015" width="31" height="31"/>
+    <SubTexture name="Coin" x="1203" y="2000" width="47" height="46" frameX="0" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="collapseArrowDown" x="574" y="1287" width="26" height="26"/>
+    <SubTexture name="collapseArrowUp" x="574" y="1314" width="26" height="26"/>
+    <SubTexture name="ComboStrikeEffect" x="869" y="1392" width="25" height="25"/>
+    <SubTexture name="ComboStrikeIcon" x="634" y="1823" width="50" height="48" frameX="0" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="cornerButton_Down" x="502" y="1765" width="50" height="50"/>
+    <SubTexture name="cornerButton_Hover" x="550" y="1646" width="50" height="50"/>
+    <SubTexture name="cornerButton_Up" x="553" y="1765" width="50" height="50"/>
+    <SubTexture name="CraftsmanshipUpgrade" x="699" y="2004" width="50" height="43" frameX="0" frameY="-3" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="de_DE" x="1079" y="314" width="150" height="90"/>
+    <SubTexture name="Demon Assistant_resource" x="2013" y="1037" width="34" height="35" frameX="-1" frameY="0" frameWidth="35" frameHeight="35"/>
+    <SubTexture name="demonBuilding_Disabled" x="1903" y="573" width="130" height="57"/>
+    <SubTexture name="demonBuilding_Down" x="1900" y="631" width="130" height="57"/>
+    <SubTexture name="demonBuilding_Hover" x="750" y="364" width="130" height="57"/>
+    <SubTexture name="demonBuilding_Up" x="881" y="364" width="130" height="57"/>
+    <SubTexture name="DemonCoinSmall" x="574" y="1098" width="26" height="26"/>
+    <SubTexture name="DemonTrim" x="1206" y="865" width="20" height="20"/>
+    <SubTexture name="DemonTrim_Hover" x="343" y="1490" width="20" height="20"/>
+    <SubTexture name="dialog_bottom_wood" x="758" y="229" width="320" height="134"/>
+    <SubTexture name="dialog_manaBar_01" x="1" y="1" width="756" height="56"/>
+    <SubTexture name="dialog_manaBar_02" x="1" y="1828" width="56" height="56" frameX="0" frameY="0" frameWidth="756" frameHeight="56"/>
+    <SubTexture name="dialog_manaBar_02_bloodwar" x="58" y="1828" width="56" height="56" frameX="0" frameY="0" frameWidth="756" frameHeight="56"/>
+    <SubTexture name="dialog_manaBar_02_christmas" x="426" y="1824" width="56" height="56" frameX="0" frameY="0" frameWidth="756" frameHeight="56"/>
+    <SubTexture name="dialog_manaBar_02_easter" x="393" y="1676" width="56" height="56" frameX="0" frameY="0" frameWidth="756" frameHeight="56"/>
+    <SubTexture name="dialog_manaBar_02_halloween" x="641" y="1947" width="56" height="56" frameX="0" frameY="0" frameWidth="756" frameHeight="56"/>
+    <SubTexture name="dialog_manaBar_02_invasion" x="698" y="1947" width="56" height="56" frameX="0" frameY="0" frameWidth="756" frameHeight="56"/>
+    <SubTexture name="dialog_manaBar_02_summer" x="755" y="1947" width="56" height="56" frameX="0" frameY="0" frameWidth="756" frameHeight="56"/>
+    <SubTexture name="dialog_manaBar_02_valentine" x="812" y="1947" width="56" height="56" frameX="0" frameY="0" frameWidth="756" frameHeight="56"/>
+    <SubTexture name="dialog_manaBar_03" x="758" y="1" width="756" height="56"/>
+    <SubTexture name="dialog_manaBar_03_bloodwar" x="1" y="58" width="756" height="56"/>
+    <SubTexture name="dialog_manaBar_03_christmas" x="758" y="58" width="756" height="56"/>
+    <SubTexture name="dialog_manaBar_03_easter" x="1" y="115" width="756" height="56"/>
+    <SubTexture name="dialog_manaBar_03_halloween" x="758" y="115" width="756" height="56"/>
+    <SubTexture name="dialog_manaBar_03_invasion" x="1" y="172" width="756" height="56"/>
+    <SubTexture name="dialog_manaBar_03_summer" x="758" y="172" width="756" height="56"/>
+    <SubTexture name="dialog_manaBar_03_valentine" x="1" y="229" width="756" height="56"/>
+    <SubTexture name="dialog_manaBar_load" x="1727" y="1009" width="23" height="46" frameX="0" frameY="-6" frameWidth="23" frameHeight="56"/>
+    <SubTexture name="dialog_manaBar_load_bloodwar" x="1727" y="1056" width="23" height="46" frameX="0" frameY="-6" frameWidth="23" frameHeight="56"/>
+    <SubTexture name="dialog_manaBar_load_christmas" x="1727" y="1103" width="23" height="46" frameX="0" frameY="-6" frameWidth="23" frameHeight="56"/>
+    <SubTexture name="dialog_manaBar_load_easter" x="876" y="1495" width="23" height="46" frameX="0" frameY="-6" frameWidth="23" frameHeight="56"/>
+    <SubTexture name="dialog_manaBar_load_halloween" x="876" y="1542" width="23" height="46" frameX="0" frameY="-6" frameWidth="23" frameHeight="56"/>
+    <SubTexture name="dialog_manaBar_load_invasion" x="876" y="1589" width="23" height="46" frameX="0" frameY="-6" frameWidth="23" frameHeight="56"/>
+    <SubTexture name="dialog_manaBar_load_summer" x="876" y="1636" width="23" height="46" frameX="0" frameY="-6" frameWidth="23" frameHeight="56"/>
+    <SubTexture name="dialog_manaBar_load_valentine" x="876" y="1683" width="23" height="46" frameX="0" frameY="-6" frameWidth="23" frameHeight="56"/>
+    <SubTexture name="dialog_popUp" x="1968" y="1109" width="78" height="78"/>
+    <SubTexture name="dialog_popUp_arrow" x="1188" y="1180" width="37" height="81"/>
+    <SubTexture name="dialog_popUp_close" x="374" y="951" width="78" height="81"/>
+    <SubTexture name="dialog_stone" x="1968" y="1188" width="78" height="78"/>
+    <SubTexture name="dialog_stoneNamePlate" x="1467" y="1199" width="78" height="78"/>
+    <SubTexture name="dialog_stoneScrollable" x="1720" y="1150" width="78" height="78"/>
+    <SubTexture name="dialog_textboxGold" x="1881" y="1197" width="78" height="78"/>
+    <SubTexture name="dialog_textboxSilver" x="1960" y="1267" width="78" height="78"/>
+    <SubTexture name="dialog_top_wood" x="1632" y="1218" width="78" height="78"/>
+    <SubTexture name="dialog_woodScrollable" x="1546" y="1254" width="78" height="78"/>
+    <SubTexture name="DiamondCoin" x="1500" y="1450" width="45" height="47" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="DiamondPickaxeIcon" x="1152" y="2000" width="50" height="46" frameX="0" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Discount50" x="1" y="2021" width="58" height="26"/>
+    <SubTexture name="DivineUpgrade" x="1837" y="1352" width="41" height="50" frameX="-5" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="djinnBuilding_Disabled" x="1078" y="405" width="130" height="57"/>
+    <SubTexture name="djinnBuilding_Down" x="1230" y="471" width="130" height="57"/>
+    <SubTexture name="djinnBuilding_Hover" x="1361" y="519" width="130" height="57"/>
+    <SubTexture name="djinnBuilding_Up" x="750" y="422" width="130" height="57"/>
+    <SubTexture name="DjinnTrim" x="343" y="1511" width="20" height="20"/>
+    <SubTexture name="DjinnTrim_Hover" x="343" y="1532" width="20" height="20"/>
+    <SubTexture name="Dragon Assistant_resource" x="218" y="1789" width="35" height="33" frameX="0" frameY="-2" frameWidth="35" frameHeight="35"/>
+    <SubTexture name="dragonBuilding_Disabled" x="881" y="422" width="130" height="57"/>
+    <SubTexture name="dragonBuilding_Down" x="1078" y="463" width="130" height="57"/>
+    <SubTexture name="dragonBuilding_Hover" x="1230" y="529" width="130" height="57"/>
+    <SubTexture name="dragonBuilding_Up" x="1361" y="577" width="130" height="57"/>
+    <SubTexture name="DragonsBreathIcon" x="550" y="1494" width="50" height="50"/>
+    <SubTexture name="DragonTrim" x="222" y="1545" width="20" height="20"/>
+    <SubTexture name="DragonTrim_Hover" x="222" y="1566" width="20" height="20"/>
+    <SubTexture name="Drow Assistant_resource" x="376" y="2016" width="35" height="31" frameX="0" frameY="-2" frameWidth="35" frameHeight="35"/>
+    <SubTexture name="drowBuilding_Disabled" x="750" y="480" width="130" height="57"/>
+    <SubTexture name="drowBuilding_Down" x="881" y="480" width="130" height="57"/>
+    <SubTexture name="drowBuilding_Hover" x="1077" y="521" width="130" height="57"/>
+    <SubTexture name="drowBuilding_Up" x="1230" y="587" width="130" height="57"/>
+    <SubTexture name="DrowCoinSmall" x="574" y="1125" width="26" height="26"/>
+    <SubTexture name="DrowTrim" x="222" y="1587" width="20" height="20"/>
+    <SubTexture name="DrowTrim_Hover" x="1066" y="1681" width="20" height="20"/>
+    <SubTexture name="Druid Assistant_resource" x="601" y="1479" width="31" height="35" frameX="-2" frameY="0" frameWidth="35" frameHeight="35"/>
+    <SubTexture name="druidBuilding_Disabled" x="750" y="538" width="130" height="57"/>
+    <SubTexture name="druidBuilding_Down" x="881" y="538" width="130" height="57"/>
+    <SubTexture name="druidBuilding_Hover" x="1077" y="579" width="130" height="57"/>
+    <SubTexture name="druidBuilding_Up" x="1077" y="637" width="130" height="57"/>
+    <SubTexture name="DruidTrim" x="1066" y="1702" width="20" height="20"/>
+    <SubTexture name="DruidTrim_Hover" x="1066" y="1723" width="20" height="20"/>
+    <SubTexture name="Dwarf Assistant 1_resource" x="1208" y="598" width="21" height="26" frameX="-2" frameY="0" frameWidth="25" frameHeight="35"/>
+    <SubTexture name="Dwarf Assistant 2_resource" x="1208" y="625" width="21" height="26" frameX="-2" frameY="0" frameWidth="25" frameHeight="35"/>
+    <SubTexture name="Dwarf Assistant 3_resource" x="1208" y="652" width="21" height="26" frameX="-2" frameY="0" frameWidth="25" frameHeight="35"/>
+    <SubTexture name="Dwarf Assistant 4_resource" x="1208" y="679" width="21" height="26" frameX="-2" frameY="0" frameWidth="25" frameHeight="35"/>
+    <SubTexture name="Dwarf Assistant 5_resource" x="1208" y="569" width="21" height="28" frameX="-2" frameY="0" frameWidth="25" frameHeight="35"/>
+    <SubTexture name="Dwarf Assistant 6_resource" x="1208" y="536" width="21" height="32" frameX="-2" frameY="0" frameWidth="25" frameHeight="35"/>
+    <SubTexture name="Dwarf Assistant 7_resource" x="1029" y="1887" width="23" height="35" frameX="-1" frameY="0" frameWidth="25" frameHeight="35"/>
+    <SubTexture name="dwarfBuilding_Disabled" x="750" y="596" width="130" height="57"/>
+    <SubTexture name="dwarfBuilding_Down" x="881" y="596" width="130" height="57"/>
+    <SubTexture name="dwarfBuilding_Hover" x="750" y="654" width="130" height="57"/>
+    <SubTexture name="dwarfBuilding_Up" x="881" y="654" width="130" height="57"/>
+    <SubTexture name="DwarvenCoinSmall" x="574" y="1152" width="26" height="26"/>
+    <SubTexture name="DwarvenTrim" x="1066" y="1744" width="20" height="20"/>
+    <SubTexture name="DwarvenTrim_Hover" x="1465" y="1913" width="20" height="20"/>
+    <SubTexture name="EconomicsUpgrade" x="1015" y="1646" width="50" height="50"/>
+    <SubTexture name="EctoplasmCurrency" x="1836" y="1623" width="40" height="40"/>
+    <SubTexture name="EctoplasmMax" x="261" y="435" width="128" height="128"/>
+    <SubTexture name="EggCurrency" x="1187" y="1313" width="39" height="36" frameX="0" frameY="-2" frameWidth="40" frameHeight="40"/>
+    <SubTexture name="EggMax1" x="841" y="1164" width="115" height="128" frameX="-7" frameY="0" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="EggMax2" x="722" y="1283" width="115" height="128" frameX="-7" frameY="0" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="EggMax3" x="601" y="1301" width="115" height="128" frameX="-7" frameY="0" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="Elf Assistant_resource" x="2013" y="1073" width="34" height="35" frameX="-1" frameY="0" frameWidth="35" frameHeight="35"/>
+    <SubTexture name="elfBuilding_Disabled" x="750" y="712" width="130" height="57"/>
+    <SubTexture name="elfBuilding_Down" x="881" y="712" width="130" height="57"/>
+    <SubTexture name="elfBuilding_Hover" x="1508" y="603" width="130" height="57"/>
+    <SubTexture name="elfBuilding_Up" x="1361" y="635" width="130" height="57"/>
+    <SubTexture name="ElvenCoinSmall" x="574" y="1179" width="26" height="26"/>
+    <SubTexture name="ElvenTrim" x="1465" y="1934" width="20" height="20"/>
+    <SubTexture name="ElvenTrim_Hover" x="1424" y="2000" width="20" height="20"/>
+    <SubTexture name="EmeraldCoin" x="1500" y="1498" width="45" height="47" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="en_US" x="1230" y="380" width="150" height="90"/>
+    <SubTexture name="es_ES" x="1512" y="512" width="150" height="90"/>
+    <SubTexture name="ESign" x="2034" y="625" width="11" height="21" frameX="-5" frameY="0" frameWidth="21" frameHeight="21"/>
+    <SubTexture name="evilBuilding_Disabled" x="1230" y="645" width="130" height="57"/>
+    <SubTexture name="evilBuilding_Down" x="1077" y="695" width="130" height="57"/>
+    <SubTexture name="evilBuilding_Hover" x="1639" y="603" width="130" height="57"/>
+    <SubTexture name="evilBuilding_Up" x="1900" y="689" width="130" height="57"/>
+    <SubTexture name="EvilTrim" x="1445" y="2023" width="20" height="20"/>
+    <SubTexture name="EvilTrim_Hover" x="1445" y="2000" width="20" height="20"/>
+    <SubTexture name="ExplosivesEffect" x="900" y="1703" width="25" height="25"/>
+    <SubTexture name="Faceless Assistant_resource" x="901" y="1595" width="35" height="35"/>
+    <SubTexture name="facelessBuilding_Disabled" x="750" y="770" width="130" height="57"/>
+    <SubTexture name="facelessBuilding_Down" x="881" y="770" width="130" height="57"/>
+    <SubTexture name="facelessBuilding_Hover" x="1504" y="661" width="130" height="57"/>
+    <SubTexture name="facelessBuilding_Up" x="1361" y="693" width="130" height="57"/>
+    <SubTexture name="FacelessTrim" x="1448" y="1977" width="20" height="20"/>
+    <SubTexture name="FacelessTrim_Hover" x="1469" y="1977" width="20" height="20"/>
+    <SubTexture name="Fairy Assistant_resource" x="87" y="1614" width="34" height="35" frameX="-1" frameY="0" frameWidth="35" frameHeight="35"/>
+    <SubTexture name="fairyBuilding_Disabled" x="1230" y="703" width="130" height="57"/>
+    <SubTexture name="fairyBuilding_Down" x="1076" y="753" width="130" height="57"/>
+    <SubTexture name="fairyBuilding_Hover" x="1361" y="751" width="130" height="57"/>
+    <SubTexture name="fairyBuilding_Up" x="1229" y="761" width="130" height="57"/>
+    <SubTexture name="FairyChantingEffect" x="900" y="1729" width="25" height="25"/>
+    <SubTexture name="FairyChantingIcon" x="927" y="1703" width="49" height="50" frameX="-1" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="FairyCoinSmall" x="574" y="1206" width="26" height="26"/>
+    <SubTexture name="FairyTrim" x="1490" y="1977" width="20" height="20"/>
+    <SubTexture name="FairyTrim_Hover" x="1511" y="1977" width="20" height="20"/>
+    <SubTexture name="FlameOrbCurrency" x="1836" y="1664" width="40" height="40"/>
+    <SubTexture name="FlameOrbMax" x="722" y="1164" width="118" height="118" frameX="-5" frameY="-5" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="floating_bitmap" x="1515" y="1" width="394" height="510" frameX="-1" frameY="-1" frameWidth="396" frameHeight="512"/>
+    <SubTexture name="fr_FR" x="1663" y="512" width="150" height="90"/>
+    <SubTexture name="FrostOrbCurrency" x="1500" y="1634" width="40" height="40"/>
+    <SubTexture name="FrostOrbMax" x="1" y="870" width="123" height="118" frameX="-3" frameY="-5" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="Gem" x="901" y="1553" width="35" height="41" frameX="-8" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GemGrinderIcon" x="799" y="2004" width="46" height="43" frameX="-2" frameY="-4" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Goblin Assistant_resource" x="838" y="1392" width="29" height="35" frameX="-3" frameY="0" frameWidth="35" frameHeight="35"/>
+    <SubTexture name="goblinBuilding_Disabled" x="1075" y="811" width="130" height="57"/>
+    <SubTexture name="goblinBuilding_Down" x="1635" y="661" width="130" height="57"/>
+    <SubTexture name="goblinBuilding_Hover" x="1900" y="747" width="130" height="57"/>
+    <SubTexture name="goblinBuilding_Up" x="1501" y="719" width="130" height="57"/>
+    <SubTexture name="GoblinCoinSmall" x="574" y="1233" width="26" height="26"/>
+    <SubTexture name="GoblinCrownCurrency" x="87" y="2021" width="25" height="26"/>
+    <SubTexture name="GoblinCrownMax" x="1" y="622" width="126" height="121" frameX="0" frameY="-8" frameWidth="128" frameHeight="135"/>
+    <SubTexture name="GoblinsGreedEffect" x="1465" y="1887" width="23" height="25" frameX="-1" frameY="0" frameWidth="25" frameHeight="25"/>
+    <SubTexture name="GoblinsGreedIcon" x="1837" y="1450" width="41" height="46" frameX="-5" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="GoblinTrim" x="1532" y="1977" width="20" height="20"/>
+    <SubTexture name="GoblinTrim_Hover" x="1448" y="1955" width="20" height="20"/>
+    <SubTexture name="GodsHandEffect" x="1537" y="1949" width="25" height="25"/>
+    <SubTexture name="GodsHandIcon" x="1494" y="1726" width="46" height="46" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="goodBuilding_Disabled" x="1632" y="719" width="130" height="57"/>
+    <SubTexture name="goodBuilding_Down" x="1900" y="805" width="130" height="57"/>
+    <SubTexture name="goodBuilding_Hover" x="1501" y="777" width="130" height="57"/>
+    <SubTexture name="goodBuilding_Up" x="1632" y="777" width="130" height="57"/>
+    <SubTexture name="GoodTrim" x="1617" y="2023" width="20" height="20"/>
+    <SubTexture name="GoodTrim_Hover" x="1638" y="2023" width="20" height="20"/>
+    <SubTexture name="GrandBalanceEffect" x="601" y="1515" width="25" height="25"/>
+    <SubTexture name="GrandBalanceIcon" x="1089" y="1681" width="50" height="50"/>
+    <SubTexture name="GrayTrim" x="1492" y="664" width="10" height="10"/>
+    <SubTexture name="GreenDragonsBreathEffect" x="601" y="1541" width="25" height="25"/>
+    <SubTexture name="greenStone_WoodTrim_Down" x="257" y="1885" width="58" height="58"/>
+    <SubTexture name="greenStone_WoodTrim_Hover" x="260" y="1824" width="58" height="58"/>
+    <SubTexture name="greenStone_WoodTrim_Up" x="316" y="1883" width="58" height="58"/>
+    <SubTexture name="HailstormEffect" x="87" y="1650" width="25" height="24" frameX="0" frameY="-1" frameWidth="25" frameHeight="25"/>
+    <SubTexture name="HailstormIcon" x="1251" y="2000" width="50" height="45" frameX="0" frameY="-3" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HalloweenPumpkin" x="1231" y="229" width="150" height="150"/>
+    <SubTexture name="HeartCurrency" x="1184" y="1472" width="40" height="37" frameX="0" frameY="-2" frameWidth="40" frameHeight="40"/>
+    <SubTexture name="HeatwaveEffect" x="1398" y="2000" width="25" height="20" frameX="0" frameY="-3" frameWidth="25" frameHeight="25"/>
+    <SubTexture name="HeatwaveIcon" x="721" y="1887" width="50" height="37" frameX="0" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HellfireBlastEffect" x="1208" y="706" width="21" height="25" frameX="-2" frameY="0" frameWidth="25" frameHeight="25"/>
+    <SubTexture name="HellfireBlastIcon" x="1188" y="1040" width="38" height="50" frameX="-6" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="highlightArrow" x="2031" y="788" width="8" height="22"/>
+    <SubTexture name="highlightBox" x="60" y="2021" width="26" height="26"/>
+    <SubTexture name="HolyLightEffect" x="400" y="1733" width="25" height="25"/>
+    <SubTexture name="HolyLightIcon" x="1517" y="1998" width="50" height="49" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="HolySymbolCurrency" x="1836" y="1705" width="40" height="40"/>
+    <SubTexture name="HolySymbolMax" x="1" y="744" width="125" height="125" frameX="-1" frameY="-1" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="horizScroll_Container-Disabled" x="967" y="828" width="41" height="10"/>
+    <SubTexture name="horizScroll_Container" x="1968" y="1095" width="41" height="10"/>
+    <SubTexture name="icon_alert" x="1779" y="1336" width="57" height="57"/>
+    <SubTexture name="icon_alert_empty" x="1779" y="1394" width="57" height="57"/>
+    <SubTexture name="icon_border" x="319" y="1824" width="57" height="57"/>
+    <SubTexture name="icon_down" x="1837" y="1098" width="44" height="33" frameX="-6" frameY="-12" frameWidth="57" frameHeight="57"/>
+    <SubTexture name="icon_options_color" x="1143" y="1676" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="icon_options_color_down" x="1220" y="1733" width="76" height="76" frameX="-1" frameY="-1" frameWidth="78" frameHeight="78"/>
+    <SubTexture name="icon_sclose" x="1837" y="1048" width="44" height="49" frameX="-6" frameY="-4" frameWidth="57" frameHeight="57"/>
+    <SubTexture name="icon_sclose_color" x="74" y="1946" width="74" height="74"/>
+    <SubTexture name="icon_sclose_color_down" x="124" y="1810" width="74" height="74"/>
+    <SubTexture name="icon_settings" x="1" y="1665" width="52" height="52" frameX="-2" frameY="-3" frameWidth="57" frameHeight="57"/>
+    <SubTexture name="icon_up" x="1837" y="1132" width="44" height="33" frameX="-6" frameY="-12" frameWidth="57" frameHeight="57"/>
+    <SubTexture name="InfiniteSpiralEffect" x="426" y="1733" width="25" height="25"/>
+    <SubTexture name="InfiniteSpiralIcon" x="584" y="1824" width="49" height="47" frameX="0" frameY="-1" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="infoButton_Down" x="1185" y="1431" width="41" height="40" frameX="-4" frameY="0" frameWidth="45" frameHeight="40"/>
+    <SubTexture name="infoButton_Hover" x="1304" y="1447" width="41" height="40" frameX="-4" frameY="0" frameWidth="45" frameHeight="40"/>
+    <SubTexture name="infoButton_Up" x="1429" y="1266" width="37" height="37" frameX="-6" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="infoButton_Up_Mobile" x="1304" y="1488" width="41" height="40" frameX="-4" frameY="0" frameWidth="45" frameHeight="40"/>
+    <SubTexture name="it_IT" x="1" y="286" width="150" height="90"/>
+    <SubTexture name="KongregateIcon" x="259" y="564" width="126" height="126" frameX="-2" frameY="-2" frameWidth="130" frameHeight="130"/>
+    <SubTexture name="LanguageIcon" x="1196" y="968" width="30" height="30"/>
+    <SubTexture name="LavaStoneCurrency" x="1836" y="1746" width="40" height="40"/>
+    <SubTexture name="LavaStoneMax" x="127" y="747" width="125" height="125" frameX="-2" frameY="-2" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="LightningStrikeEffect" x="1492" y="587" width="15" height="25" frameX="-6" frameY="0" frameWidth="25" frameHeight="25"/>
+    <SubTexture name="LightningStrikeIcon" x="577" y="795" width="26" height="50" frameX="-14" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="LimitedWishEffect" x="601" y="1567" width="25" height="25"/>
+    <SubTexture name="LimitedWishIcon" x="1015" y="1697" width="50" height="50"/>
+    <SubTexture name="ListItemBackground" x="1492" y="753" width="8" height="8"/>
+    <SubTexture name="ListItemBackgroundCross" x="1492" y="762" width="8" height="8"/>
+    <SubTexture name="ListItemBackgroundCrossSelected" x="1492" y="771" width="8" height="8"/>
+    <SubTexture name="ListItemBackgroundExclamation" x="2031" y="811" width="8" height="8"/>
+    <SubTexture name="ListItemBackgroundExclamationSelected" x="2031" y="820" width="8" height="8"/>
+    <SubTexture name="ListItemBackgroundPurchased" x="2031" y="829" width="8" height="8"/>
+    <SubTexture name="ListItemBackgroundPurchasedSelected" x="2031" y="838" width="8" height="8"/>
+    <SubTexture name="ListItemBackgroundQuestion" x="2031" y="847" width="8" height="8"/>
+    <SubTexture name="ListItemBackgroundQuestionSelected" x="2031" y="856" width="8" height="8"/>
+    <SubTexture name="ListItemBackgroundSelected" x="1492" y="780" width="8" height="8"/>
+    <SubTexture name="loadingBar_Empty" x="1771" y="1883" width="60" height="23"/>
+    <SubTexture name="loadingBar_Fill" x="1771" y="1907" width="60" height="23"/>
+    <SubTexture name="MaelstromEffect" x="601" y="1593" width="25" height="25"/>
+    <SubTexture name="MaelstromIcon" x="1089" y="1732" width="50" height="50"/>
+    <SubTexture name="makersBuilding_Disabled" x="1900" y="863" width="130" height="57"/>
+    <SubTexture name="makersBuilding_Down" x="1360" y="809" width="130" height="57"/>
+    <SubTexture name="makersBuilding_Hover" x="1228" y="819" width="130" height="57"/>
+    <SubTexture name="makersBuilding_Up" x="1500" y="835" width="130" height="57"/>
+    <SubTexture name="MakersTrim" x="1659" y="2023" width="20" height="20"/>
+    <SubTexture name="MakersTrim_Hover" x="1680" y="2023" width="20" height="20"/>
+    <SubTexture name="manaArrow" x="821" y="1887" width="54" height="36"/>
+    <SubTexture name="manaArrow_Vertical" x="1492" y="644" width="11" height="19"/>
+    <SubTexture name="manaArrowup" x="394" y="1543" width="36" height="54"/>
+    <SubTexture name="ManaBar" x="1752" y="929" width="60" height="60"/>
+    <SubTexture name="manaBar_Empty" x="315" y="2018" width="60" height="27"/>
+    <SubTexture name="manaBar_Full" x="509" y="2015" width="60" height="27"/>
+    <SubTexture name="manaBubble_Empty" x="967" y="944" width="99" height="98"/>
+    <SubTexture name="manaBubble_Full" x="966" y="1043" width="99" height="98"/>
+    <SubTexture name="manaBubble_Full_bloodwar" x="966" y="1142" width="99" height="98"/>
+    <SubTexture name="manaBubble_Full_christmas" x="957" y="1241" width="99" height="98"/>
+    <SubTexture name="manaBubble_Full_easter" x="838" y="1293" width="99" height="98"/>
+    <SubTexture name="manaBubble_Full_halloween" x="450" y="1331" width="99" height="98"/>
+    <SubTexture name="manaBubble_Full_invasion" x="450" y="1430" width="99" height="98"/>
+    <SubTexture name="manaBubble_Full_summer" x="243" y="1490" width="99" height="98"/>
+    <SubTexture name="manaBubble_Full_valentine" x="122" y="1545" width="99" height="98"/>
+    <SubTexture name="Mercenary Assistant_resource" x="901" y="1631" width="35" height="35"/>
+    <SubTexture name="mercenaryBuilding_Disabled" x="1631" y="835" width="130" height="57"/>
+    <SubTexture name="mercenaryBuilding_Down" x="1359" y="867" width="130" height="57"/>
+    <SubTexture name="mercenaryBuilding_Hover" x="1227" y="877" width="130" height="57"/>
+    <SubTexture name="mercenaryBuilding_Up" x="1899" y="921" width="130" height="57"/>
+    <SubTexture name="MercenaryTrim" x="524" y="1651" width="20" height="20"/>
+    <SubTexture name="MercenaryTrim_Hover" x="604" y="1775" width="20" height="20"/>
+    <SubTexture name="MiracleEffect" x="1209" y="405" width="20" height="25" frameX="-3" frameY="0" frameWidth="25" frameHeight="25"/>
+    <SubTexture name="mobileSpellBox_Balance_Disabled" x="454" y="827" width="120" height="167"/>
+    <SubTexture name="mobileSpellBox_Balance_Down" x="253" y="818" width="120" height="167"/>
+    <SubTexture name="mobileSpellBox_Balance_Up" x="125" y="873" width="120" height="167"/>
+    <SubTexture name="mobileSpellBox_Chaos_Disabled" x="1" y="989" width="120" height="167"/>
+    <SubTexture name="mobileSpellBox_Chaos_Down" x="246" y="986" width="120" height="167"/>
+    <SubTexture name="mobileSpellBox_Chaos_Up" x="122" y="1041" width="120" height="167"/>
+    <SubTexture name="mobileSpellBox_Evil_Disabled" x="1" y="1157" width="120" height="167"/>
+    <SubTexture name="mobileSpellBox_Evil_Down" x="604" y="797" width="120" height="167"/>
+    <SubTexture name="mobileSpellBox_Evil_Up" x="725" y="828" width="120" height="167"/>
+    <SubTexture name="mobileSpellBox_Gold_Disabled" x="603" y="965" width="120" height="167"/>
+    <SubTexture name="mobileSpellBox_Gold_Down" x="453" y="995" width="120" height="167"/>
+    <SubTexture name="mobileSpellBox_Gold_Up" x="243" y="1154" width="120" height="167"/>
+    <SubTexture name="mobileSpellBox_Good_Disabled" x="122" y="1209" width="120" height="167"/>
+    <SubTexture name="mobileSpellBox_Good_Down" x="1" y="1325" width="120" height="167"/>
+    <SubTexture name="mobileSpellBox_Good_Up" x="846" y="828" width="120" height="167"/>
+    <SubTexture name="mobileSpellBox_Halloween_Disabled" x="1075" y="869" width="120" height="167"/>
+    <SubTexture name="mobileSpellBox_Halloween_Down" x="1227" y="935" width="120" height="167"/>
+    <SubTexture name="mobileSpellBox_Halloween_Up" x="1067" y="1037" width="120" height="167"/>
+    <SubTexture name="mobileSpellBox_Neutral_Disabled" x="1348" y="983" width="120" height="167"/>
+    <SubTexture name="mobileSpellBox_Neutral_Down" x="1227" y="1103" width="120" height="167"/>
+    <SubTexture name="mobileSpellBox_Neutral_Up" x="724" y="996" width="120" height="167"/>
+    <SubTexture name="mobileSpellBox_Order_Disabled" x="845" y="996" width="120" height="167"/>
+    <SubTexture name="mobileSpellBox_Order_Down" x="1066" y="1205" width="120" height="167"/>
+    <SubTexture name="mobileSpellBox_Order_Up" x="601" y="1133" width="120" height="167"/>
+    <SubTexture name="mobileSpellBox_Valentine_Disabled" x="453" y="1163" width="120" height="167"/>
+    <SubTexture name="mobileSpellBox_Valentine_Down" x="243" y="1322" width="120" height="167"/>
+    <SubTexture name="mobileSpellBox_Valentine_Up" x="122" y="1377" width="120" height="167"/>
+    <SubTexture name="mobileSpellCooldown" x="1910" y="1" width="137" height="44"/>
+    <SubTexture name="mobileSpellCooldown_Fill" x="1910" y="225" width="134" height="42" frameX="-2" frameY="-1" frameWidth="137" frameHeight="44"/>
+    <SubTexture name="mobileSpellCooldown_Glass" x="1910" y="46" width="137" height="43" frameX="0" frameY="-1" frameWidth="137" frameHeight="44"/>
+    <SubTexture name="MoonBlessingEffect" x="524" y="1599" width="25" height="25"/>
+    <SubTexture name="MoonBlessingIcon" x="1295" y="1949" width="50" height="50"/>
+    <SubTexture name="neutralBuilding_Disabled" x="1490" y="893" width="130" height="57"/>
+    <SubTexture name="neutralBuilding_Down" x="1358" y="925" width="130" height="57"/>
+    <SubTexture name="neutralBuilding_Hover" x="1621" y="893" width="130" height="57"/>
+    <SubTexture name="neutralBuilding_Up" x="1899" y="979" width="130" height="57"/>
+    <SubTexture name="NightTimeIcon" x="292" y="1676" width="50" height="41" frameX="0" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="NoSign" x="1208" y="732" width="21" height="21"/>
+    <SubTexture name="OKSign" x="1207" y="754" width="21" height="21"/>
+    <SubTexture name="OrderTrim" x="604" y="1796" width="20" height="20"/>
+    <SubTexture name="OrderTrim_Hover" x="630" y="1730" width="20" height="20"/>
+    <SubTexture name="ParticleAngelCoin" x="1836" y="1497" width="41" height="43"/>
+    <SubTexture name="ParticleCoin" x="1304" y="1271" width="41" height="43"/>
+    <SubTexture name="ParticleDemonCoin" x="1304" y="1315" width="41" height="43"/>
+    <SubTexture name="ParticleDiamondCoin" x="1770" y="653" width="43" height="43" frameX="-4" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ParticleDrowCoin" x="1423" y="1304" width="41" height="43"/>
+    <SubTexture name="ParticleDwarvenCoin" x="1143" y="1373" width="41" height="43"/>
+    <SubTexture name="ParticleElvenCoin" x="1185" y="1387" width="41" height="43"/>
+    <SubTexture name="ParticleEmeraldCoin" x="1837" y="1166" width="43" height="43" frameX="-4" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ParticleFairyCoin" x="1143" y="1417" width="41" height="43"/>
+    <SubTexture name="ParticleGoblinCoin" x="1304" y="1359" width="41" height="43"/>
+    <SubTexture name="ParticleUndeadCoin" x="1304" y="1403" width="41" height="43"/>
+    <SubTexture name="Plain Assistant_resource" x="254" y="1789" width="35" height="33" frameX="0" frameY="-1" frameWidth="35" frameHeight="35"/>
+    <SubTexture name="PrecognitionEffect" x="524" y="1625" width="25" height="25"/>
+    <SubTexture name="PrecognitionIcon" x="1188" y="1142" width="38" height="37" frameX="0" frameY="-1" frameWidth="38" frameHeight="38"/>
+    <SubTexture name="Production" x="725" y="797" width="24" height="30" frameX="-5" frameY="0" frameWidth="30" frameHeight="30"/>
+    <SubTexture name="pt_BR" x="152" y="286" width="150" height="90"/>
+    <SubTexture name="purpleRibbon" x="165" y="2018" width="74" height="29" frameX="-26" frameY="-1" frameWidth="126" frameHeight="34"/>
+    <SubTexture name="purpleRibbon_Selected" x="1625" y="1297" width="78" height="32" frameX="-24" frameY="0" frameWidth="126" frameHeight="34"/>
+    <SubTexture name="QSign" x="1361" y="497" width="18" height="21" frameX="-1" frameY="0" frameWidth="21" frameHeight="21"/>
+    <SubTexture name="radioButton_Empty" x="1492" y="553" width="16" height="16"/>
+    <SubTexture name="radioButton_Fill" x="1492" y="570" width="16" height="16"/>
+    <SubTexture name="RareEggCurrency" x="1187" y="1350" width="39" height="36" frameX="0" frameY="-2" frameWidth="40" frameHeight="40"/>
+    <SubTexture name="RedDragonsBreathEffect" x="601" y="1619" width="25" height="25"/>
+    <SubTexture name="redRibbon" x="240" y="2018" width="74" height="29" frameX="-26" frameY="-1" frameWidth="126" frameHeight="34"/>
+    <SubTexture name="redRibbon_Mana" x="454" y="795" width="122" height="31" frameX="-2" frameY="-2" frameWidth="126" frameHeight="34"/>
+    <SubTexture name="redRibbon_Selected" x="1704" y="1298" width="78" height="32" frameX="-24" frameY="0" frameWidth="126" frameHeight="34"/>
+    <SubTexture name="reincarnateButton_Down" x="923" y="1949" width="53" height="53"/>
+    <SubTexture name="reincarnateButton_Hover" x="977" y="1949" width="53" height="53"/>
+    <SubTexture name="reincarnateButton_Up" x="1031" y="1949" width="53" height="53"/>
+    <SubTexture name="Research1" x="2031" y="647" width="16" height="20" frameX="-16" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research10" x="575" y="945" width="27" height="20" frameX="-11" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research25" x="575" y="966" width="27" height="20" frameX="-11" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research30" x="575" y="987" width="27" height="20" frameX="-11" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research50" x="574" y="1008" width="27" height="20" frameX="-11" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research55" x="574" y="1029" width="27" height="20" frameX="-11" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research80" x="574" y="1050" width="27" height="20" frameX="-11" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research105" x="446" y="1881" width="36" height="20" frameX="-7" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research120" x="446" y="1902" width="36" height="20" frameX="-7" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research135" x="446" y="1923" width="36" height="20" frameX="-7" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research145" x="901" y="1469" width="36" height="20" frameX="-7" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research150" x="901" y="1490" width="36" height="20" frameX="-7" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research175" x="901" y="1511" width="36" height="20" frameX="-7" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research180" x="901" y="1532" width="36" height="20" frameX="-7" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research200" x="1799" y="1150" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research205" x="1799" y="1171" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research215" x="1799" y="1192" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research225" x="1799" y="1213" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research230" x="1143" y="1501" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research245" x="1302" y="1529" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research250" x="1302" y="1550" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research251" x="977" y="1706" width="35" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research260" x="1302" y="1571" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research270" x="1297" y="1592" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research275" x="1297" y="1613" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research290" x="1297" y="1634" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research300" x="1297" y="1655" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research305" x="1833" y="1828" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research320" x="1833" y="1849" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research330" x="1833" y="1870" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research340" x="1832" y="1891" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research350" x="897" y="1392" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research375" x="1297" y="1676" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research400" x="1297" y="1697" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research405" x="1297" y="1718" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research410" x="1297" y="1739" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research435" x="1297" y="1760" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research460" x="1297" y="1781" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research480" x="1297" y="1802" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research495" x="977" y="1622" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research500" x="977" y="1643" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research520" x="977" y="1664" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research525" x="977" y="1685" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research545" x="937" y="1622" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research560" x="937" y="1643" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research590" x="937" y="1664" width="37" height="20" frameX="-6" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research1125" x="124" y="1789" width="46" height="20" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research1200" x="171" y="1789" width="46" height="20" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research1225" x="619" y="1926" width="46" height="20" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research1275" x="666" y="1926" width="46" height="20" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research1300" x="713" y="1926" width="46" height="20" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research1325" x="760" y="1926" width="46" height="20" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research1375" x="807" y="1926" width="46" height="20" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research1400" x="854" y="1926" width="46" height="20" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research1425" x="901" y="1926" width="46" height="20" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research1450" x="948" y="1926" width="46" height="20" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research1500" x="995" y="1926" width="46" height="20" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research2775" x="1042" y="1926" width="46" height="20" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research2875" x="1089" y="1926" width="46" height="20" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research2950" x="1136" y="1926" width="46" height="20" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research3000" x="1183" y="1926" width="46" height="20" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research3050" x="1230" y="1926" width="46" height="20" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research3100" x="1277" y="1926" width="46" height="20" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research3150" x="1324" y="1926" width="46" height="20" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research3200" x="1371" y="1926" width="46" height="20" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research3250" x="1351" y="2023" width="46" height="20" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research3300" x="1351" y="2000" width="46" height="20" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research3350" x="1418" y="1926" width="46" height="20" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="Research3400" x="1398" y="2023" width="46" height="20" frameX="-2" frameY="-2" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="ResearchAlchemy" x="295" y="1947" width="67" height="70" frameX="0" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ResearchCraftsmanship" x="375" y="1882" width="70" height="64" frameX="0" frameY="-2" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ResearchDivine" x="394" y="377" width="58" height="69" frameX="-5" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ResearchEconomics" x="384" y="805" width="69" height="70" frameX="-1" frameY="0" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ResearchSpellcraft" x="363" y="1947" width="70" height="68" frameX="0" frameY="-1" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ResearchWarfare" x="390" y="447" width="62" height="64" frameX="-4" frameY="-4" frameWidth="70" frameHeight="70"/>
+    <SubTexture name="ru_RU" x="303" y="286" width="150" height="90"/>
+    <SubTexture name="Ruby" x="1837" y="1261" width="42" height="39" frameX="-2" frameY="-6" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="SaleStripe" x="1346" y="1949" width="50" height="50"/>
+    <SubTexture name="ScrollBackground" x="2041" y="268" width="6" height="3"/>
+    <SubTexture name="ScrollThumb" x="2041" y="272" width="6" height="3"/>
+    <SubTexture name="ScryBlue" x="2034" y="573" width="12" height="12" frameX="-4" frameY="-4" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="ScryBlueFaded" x="1492" y="675" width="10" height="10"/>
+    <SubTexture name="ScryRed" x="2034" y="586" width="12" height="12" frameX="-4" frameY="-4" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="ScryRedFaded" x="1492" y="686" width="10" height="10"/>
+    <SubTexture name="ScryYellow" x="2034" y="599" width="12" height="12" frameX="-4" frameY="-4" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="ScryYellowFaded" x="1492" y="697" width="10" height="10"/>
+    <SubTexture name="ShadowEmbraceEffect" x="601" y="1645" width="25" height="25"/>
+    <SubTexture name="ShadowEmbraceIcon" x="1397" y="1949" width="50" height="50"/>
+    <SubTexture name="ShareBenefitsEffect" x="601" y="1671" width="25" height="25"/>
+    <SubTexture name="ShopKred" x="1492" y="613" width="15" height="15"/>
+    <SubTexture name="ShopRuby" x="1492" y="629" width="15" height="14"/>
+    <SubTexture name="ShopSeparator" x="1196" y="999" width="30" height="4"/>
+    <SubTexture name="SnowballMax" x="1" y="1493" width="120" height="120" frameX="-4" frameY="-4" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="spellBox_Balance_Disabled" x="1814" y="582" width="85" height="50"/>
+    <SubTexture name="spellBox_Balance_Down" x="1814" y="633" width="85" height="50"/>
+    <SubTexture name="spellBox_Balance_Hover" x="1814" y="684" width="85" height="50"/>
+    <SubTexture name="spellBox_Balance_Up" x="1814" y="735" width="85" height="50"/>
+    <SubTexture name="spellBox_Chaos_Disabled" x="1814" y="786" width="85" height="50"/>
+    <SubTexture name="spellBox_Chaos_Down" x="1814" y="837" width="85" height="50"/>
+    <SubTexture name="spellBox_Chaos_Hover" x="1813" y="888" width="85" height="50"/>
+    <SubTexture name="spellBox_Chaos_Up" x="1813" y="939" width="85" height="50"/>
+    <SubTexture name="spellBox_Evil_Disabled" x="367" y="1033" width="85" height="50"/>
+    <SubTexture name="spellBox_Evil_Down" x="367" y="1084" width="85" height="50"/>
+    <SubTexture name="spellBox_Evil_Hover" x="367" y="1135" width="85" height="50"/>
+    <SubTexture name="spellBox_Evil_Up" x="364" y="1186" width="85" height="50"/>
+    <SubTexture name="spellBox_Gold_Disabled" x="868" y="1418" width="69" height="50"/>
+    <SubTexture name="spellBox_Gold_Down" x="1085" y="1949" width="69" height="50"/>
+    <SubTexture name="spellBox_Gold_Hover" x="1155" y="1949" width="69" height="50"/>
+    <SubTexture name="spellBox_Gold_Up" x="1225" y="1949" width="69" height="50"/>
+    <SubTexture name="spellBox_Good_Disabled" x="364" y="1237" width="85" height="50"/>
+    <SubTexture name="spellBox_Good_Down" x="364" y="1288" width="85" height="50"/>
+    <SubTexture name="spellBox_Good_Hover" x="364" y="1339" width="85" height="50"/>
+    <SubTexture name="spellBox_Good_Up" x="364" y="1390" width="85" height="50"/>
+    <SubTexture name="spellBox_Halloween_Disabled" x="364" y="1441" width="85" height="50"/>
+    <SubTexture name="spellBox_Halloween_Down" x="364" y="1492" width="85" height="50"/>
+    <SubTexture name="spellBox_Halloween_Hover" x="1" y="1614" width="85" height="50"/>
+    <SubTexture name="spellBox_Halloween_Up" x="938" y="1340" width="85" height="50"/>
+    <SubTexture name="spellBox_Neutral_Disabled" x="1469" y="1009" width="85" height="50"/>
+    <SubTexture name="spellBox_Neutral_Down" x="1555" y="1009" width="85" height="50"/>
+    <SubTexture name="spellBox_Neutral_Hover" x="1641" y="1009" width="85" height="50"/>
+    <SubTexture name="spellBox_Neutral_Up" x="1751" y="1048" width="85" height="50"/>
+    <SubTexture name="spellBox_Order_Disabled" x="1882" y="1095" width="85" height="50"/>
+    <SubTexture name="spellBox_Order_Down" x="1751" y="1099" width="85" height="50"/>
+    <SubTexture name="spellBox_Order_Hover" x="1882" y="1146" width="85" height="50"/>
+    <SubTexture name="spellBox_Order_Up" x="1469" y="1060" width="85" height="50"/>
+    <SubTexture name="spellBox_Valentine_Disabled" x="1555" y="1060" width="85" height="50"/>
+    <SubTexture name="spellBox_Valentine_Down" x="1641" y="1060" width="85" height="50"/>
+    <SubTexture name="spellBox_Valentine_Hover" x="1469" y="1111" width="85" height="50"/>
+    <SubTexture name="spellBox_Valentine_Up" x="1348" y="1151" width="85" height="50"/>
+    <SubTexture name="spellCooldown" x="1492" y="708" width="9" height="6"/>
+    <SubTexture name="spellCooldown_Fill" x="750" y="286" width="7" height="4" frameX="-1" frameY="-1" frameWidth="9" frameHeight="6"/>
+    <SubTexture name="SpellcraftUpgrade" x="550" y="1697" width="50" height="49" frameX="0" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="SpiritualSurgeEffect" x="604" y="1697" width="25" height="25"/>
+    <SubTexture name="SpiritualSurgeIcon" x="553" y="1545" width="47" height="50" frameX="-1" frameY="0" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="steelInset" x="2034" y="515" width="13" height="13"/>
+    <SubTexture name="steelPanel" x="1079" y="229" width="151" height="84"/>
+    <SubTexture name="TaxCollectionIcon" x="1500" y="1592" width="45" height="41" frameX="-2" frameY="-8" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="TemporalFluxEffect" x="604" y="1723" width="25" height="25"/>
+    <SubTexture name="TemporalFluxIcon" x="1486" y="1926" width="50" height="50"/>
+    <SubTexture name="TestBackgroundPanel" x="1492" y="789" width="8" height="8"/>
+    <SubTexture name="TestBackgroundPanelSelected" x="2034" y="612" width="12" height="12"/>
+    <SubTexture name="TestBuildingDetail" x="1492" y="798" width="8" height="8"/>
+    <SubTexture name="TestMenuListElement" x="1492" y="807" width="8" height="8"/>
+    <SubTexture name="TestMenuListElementSelected" x="1491" y="816" width="8" height="8"/>
+    <SubTexture name="TestRedPanel" x="1491" y="825" width="8" height="8"/>
+    <SubTexture name="TestResourcePanel" x="1491" y="834" width="8" height="8"/>
+    <SubTexture name="TestTabPanel" x="2045" y="225" width="2" height="2"/>
+    <SubTexture name="TestUpgradeListItem" x="2031" y="874" width="8" height="3" frameX="0" frameY="-5" frameWidth="8" frameHeight="8"/>
+    <SubTexture name="TestUpgradeListItemSelected" x="2031" y="865" width="8" height="8"/>
+    <SubTexture name="Titan Assistant_resource" x="290" y="1789" width="35" height="33" frameX="0" frameY="-2" frameWidth="35" frameHeight="35"/>
+    <SubTexture name="titanBuilding_Disabled" x="1489" y="951" width="130" height="57"/>
+    <SubTexture name="titanBuilding_Down" x="1620" y="951" width="130" height="57"/>
+    <SubTexture name="titanBuilding_Hover" x="1751" y="990" width="130" height="57"/>
+    <SubTexture name="titanBuilding_Up" x="1882" y="1037" width="130" height="57"/>
+    <SubTexture name="TitanTrim" x="651" y="1730" width="20" height="20"/>
+    <SubTexture name="TitanTrim_Hover" x="672" y="1730" width="20" height="20"/>
+    <SubTexture name="title_bmp_big" x="454" y="286" width="149" height="508" frameX="-1" frameY="-1" frameWidth="151" frameHeight="510"/>
+    <SubTexture name="title_bmp_small" x="604" y="286" width="145" height="510" frameX="-1" frameY="-1" frameWidth="147" frameHeight="512"/>
+    <SubTexture name="TooltipTipDown" x="1207" y="776" width="21" height="12"/>
+    <SubTexture name="TooltipTipLeft" x="2034" y="529" width="12" height="21"/>
+    <SubTexture name="TooltipTipRight" x="2034" y="551" width="12" height="21"/>
+    <SubTexture name="TooltipTipUp" x="1207" y="789" width="21" height="12"/>
+    <SubTexture name="UIAudio" x="400" y="1765" width="50" height="50"/>
+    <SubTexture name="UIAudioOff" x="450" y="1676" width="50" height="50"/>
+    <SubTexture name="UiBuildings" x="1012" y="726" width="63" height="44" frameX="0" frameY="-10" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="UiChallenges" x="553" y="1596" width="47" height="49" frameX="-8" frameY="-6" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="UICog" x="876" y="1469" width="24" height="25" frameX="-13" frameY="-12" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="UICrystalBall" x="284" y="1718" width="67" height="70" frameX="-11" frameY="-9" frameWidth="90" frameHeight="90"/>
+    <SubTexture name="UICrystalBall_de_DE" x="1348" y="1202" width="80" height="69" frameX="-5" frameY="-9" frameWidth="90" frameHeight="90"/>
+    <SubTexture name="UICrystalBall_es_ES" x="386" y="660" width="67" height="71" frameX="-11" frameY="-9" frameWidth="90" frameHeight="90"/>
+    <SubTexture name="UICrystalBall_fr_FR" x="57" y="1718" width="76" height="70" frameX="-7" frameY="-9" frameWidth="90" frameHeight="90"/>
+    <SubTexture name="UICrystalBall_it_IT" x="134" y="1718" width="76" height="70" frameX="-7" frameY="-9" frameWidth="90" frameHeight="90"/>
+    <SubTexture name="UICrystalBall_pt_BR" x="211" y="1718" width="72" height="70" frameX="-9" frameY="-9" frameWidth="90" frameHeight="90"/>
+    <SubTexture name="UICrystalBall_ru_RU" x="149" y="1947" width="72" height="70" frameX="-9" frameY="-9" frameWidth="90" frameHeight="90"/>
+    <SubTexture name="UICrystalBall_Web" x="386" y="587" width="67" height="72" frameX="-6" frameY="-4" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="UICrystalBall_Web_de_DE" x="113" y="1650" width="76" height="67" frameX="-2" frameY="-4" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="UICrystalBall_Web_es_ES" x="551" y="1872" width="67" height="67" frameX="-6" frameY="-4" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="UICrystalBall_Web_fr_FR" x="222" y="1608" width="70" height="67" frameX="-6" frameY="-4" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="UICrystalBall_Web_it_IT" x="434" y="1947" width="70" height="67" frameX="-6" frameY="-4" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="UICrystalBall_Web_pt_BR" x="573" y="1947" width="67" height="67" frameX="-6" frameY="-4" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="UICrystalBall_Web_ru_RU" x="384" y="732" width="69" height="72" frameX="-6" frameY="-4" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="UICrystalBallEmpty" x="505" y="1947" width="67" height="67" frameX="-11" frameY="-9" frameWidth="90" frameHeight="90"/>
+    <SubTexture name="UICrystalBallEmpty_Web" x="483" y="1872" width="67" height="67" frameX="-6" frameY="-4" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="UiEvents" x="377" y="1824" width="48" height="57" frameX="-8" frameY="-5" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="UiExcavation" x="1012" y="684" width="64" height="41" frameX="0" frameY="-14" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="UIProfile" x="1834" y="1787" width="40" height="40"/>
+    <SubTexture name="UiResearch" x="1188" y="1091" width="38" height="50" frameX="-13" frameY="-7" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="UIShop" x="1012" y="364" width="65" height="70" frameX="-12" frameY="-9" frameWidth="90" frameHeight="90"/>
+    <SubTexture name="UIShop_de_DE" x="1012" y="435" width="65" height="70" frameX="-12" frameY="-9" frameWidth="90" frameHeight="90"/>
+    <SubTexture name="UIShop_es_ES" x="1639" y="1148" width="80" height="69" frameX="-4" frameY="-9" frameWidth="90" frameHeight="90"/>
+    <SubTexture name="UIShop_fr_FR" x="222" y="1947" width="72" height="70" frameX="-11" frameY="-9" frameWidth="90" frameHeight="90"/>
+    <SubTexture name="UIShop_it_IT" x="1814" y="512" width="88" height="69" frameX="-1" frameY="-9" frameWidth="90" frameHeight="90"/>
+    <SubTexture name="UIShop_pt_BR" x="1012" y="506" width="64" height="69" frameX="-12" frameY="-9" frameWidth="90" frameHeight="90"/>
+    <SubTexture name="UIShop_ru_RU" x="1467" y="1278" width="78" height="69" frameX="-6" frameY="-9" frameWidth="90" frameHeight="90"/>
+    <SubTexture name="UIShop_Web" x="390" y="512" width="61" height="74" frameX="-11" frameY="-3" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="UIShop_Web_de_DE" x="1772" y="1747" width="61" height="74" frameX="-11" frameY="-3" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="UIShop_Web_es_ES" x="1711" y="1229" width="78" height="68" frameX="-1" frameY="-3" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="UIShop_Web_fr_FR" x="1012" y="771" width="62" height="68" frameX="-10" frameY="-3" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="UIShop_Web_it_IT" x="374" y="876" width="79" height="74" frameX="-1" frameY="-3" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="UIShop_Web_pt_BR" x="1" y="1718" width="55" height="73" frameX="-14" frameY="-3" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="UIShop_Web_ru_RU" x="1551" y="1185" width="80" height="68" frameX="0" frameY="-3" frameWidth="80" frameHeight="80"/>
+    <SubTexture name="UITip" x="1196" y="886" width="30" height="40" frameX="-8" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="UITipTrophy" x="1196" y="927" width="30" height="40" frameX="-8" frameY="-5" frameWidth="50" frameHeight="50"/>
+    <SubTexture name="UiTrophies" x="1012" y="641" width="64" height="42" frameX="0" frameY="-11" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="UiUpgrades" x="1012" y="576" width="64" height="64"/>
+    <SubTexture name="Undead Assistant_resource" x="901" y="1667" width="35" height="35"/>
+    <SubTexture name="undeadBuilding_Disabled" x="1" y="377" width="130" height="57"/>
+    <SubTexture name="undeadBuilding_Down" x="132" y="377" width="130" height="57"/>
+    <SubTexture name="undeadBuilding_Hover" x="263" y="377" width="130" height="57"/>
+    <SubTexture name="undeadBuilding_Up" x="1" y="435" width="130" height="57"/>
+    <SubTexture name="UndeadCoinSmall" x="574" y="1260" width="26" height="26"/>
+    <SubTexture name="UndeadTrim" x="693" y="1730" width="20" height="20"/>
+    <SubTexture name="UndeadTrim_Hover" x="714" y="1730" width="20" height="20"/>
+    <SubTexture name="vertScroll_Bar" x="1492" y="715" width="8" height="37" frameX="-1" frameY="-2" frameWidth="10" frameHeight="41"/>
+    <SubTexture name="vertScroll_Container-Disabled" x="2031" y="704" width="10" height="41"/>
+    <SubTexture name="vertScroll_Container" x="2031" y="746" width="10" height="41"/>
+    <SubTexture name="WailOfTheBansheeEffect" x="604" y="1749" width="25" height="25"/>
+    <SubTexture name="WailOfTheBansheeIcon" x="451" y="1765" width="50" height="50"/>
+    <SubTexture name="WarfareUpgrade" x="1494" y="1675" width="46" height="50" frameX="-2" frameY="0" frameWidth="50" frameHeight="50"/>
+</TextureAtlas>

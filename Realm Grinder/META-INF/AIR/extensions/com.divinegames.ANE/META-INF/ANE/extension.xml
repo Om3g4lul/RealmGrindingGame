@@ -1,0 +1,43 @@
+<extension xmlns="http://ns.adobe.com/air/extension/21.0">
+    <id>com.divinegames.ANE</id>
+    <versionNumber>1.0.0</versionNumber>
+    <platforms>
+        <platform name="iPhone-ARM">
+                <applicationDeployment>
+                    <nativeLibrary>libDivineANE.a</nativeLibrary>
+                    <initializer>DivineANEInitializer</initializer>
+                </applicationDeployment>
+        </platform>
+        <platform name="Android-ARM"> 
+            <applicationDeployment> 
+                <nativeLibrary>libDivine.jar</nativeLibrary> 
+                <initializer>com.divinegames.ane.Extension</initializer> 
+                <finalizer>com.divinegames.ane.Extension</finalizer> 
+            </applicationDeployment> 
+        </platform>
+        <platform name="Android-x86"> 
+            <applicationDeployment> 
+                <nativeLibrary>libDivine.jar</nativeLibrary> 
+                <initializer>com.divinegames.ane.Extension</initializer> 
+                <finalizer>com.divinegames.ane.Extension</finalizer> 
+            </applicationDeployment> 
+        </platform>
+        <platform name="MacOS-x86-64"> 
+            <applicationDeployment> 
+                <nativeLibrary>DivineANE.framework</nativeLibrary>
+                <initializer>ExtInitializerDivineANE</initializer> 
+                <finalizer>ExtFinalizerDivineANE</finalizer> 
+            </applicationDeployment> 
+        </platform>
+        <platform name="Windows-x86">
+            <applicationDeployment> 
+                <nativeLibrary>DivineANE.dll</nativeLibrary> 
+                <initializer>ExtInitializerDivineANE</initializer> 
+                <finalizer>ExtFinalizerDivineANE</finalizer> 
+            </applicationDeployment> 
+        </platform>
+        <platform name="default"> 
+            <applicationDeployment/> 
+        </platform> 
+    </platforms>
+</extension>
